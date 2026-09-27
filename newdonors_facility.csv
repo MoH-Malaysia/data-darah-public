@@ -3855,7 +3855,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-05-18,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2006-05-18,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
 2006-05-18,Hospital Tengku Ampuan Rahimah,0,0,0,0,0,0,0,0,0,0,0
-2006-05-18,Hospital Sultanah Nur Zahirah,26,9,5,3,1,3,0,0,0,0,47
+2006-05-18,Hospital Sultanah Nur Zahirah,27,9,5,3,1,3,0,0,0,0,48
 2006-05-18,Hospital Queen Elizabeth II,1,2,1,1,1,0,0,0,0,0,6
 2006-05-18,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2006-05-18,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
@@ -3946,7 +3946,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-05-21,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2006-05-21,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-05-21,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-05-21,Pusat Darah Negara,142,129,110,85,66,37,26,10,0,0,605
+2006-05-21,Pusat Darah Negara,142,129,110,86,66,37,26,10,0,0,606
 2006-05-22,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2006-05-22,Hospital Sultanah Aminah,3,4,1,3,4,1,0,0,0,0,16
 2006-05-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -5654,7 +5654,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-07-21,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2006-07-21,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-07-21,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-07-21,Pusat Darah Negara,289,11,5,7,6,7,4,1,0,0,330
+2006-07-21,Pusat Darah Negara,290,11,5,7,6,7,4,1,0,0,331
 2006-07-22,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2006-07-22,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2006-07-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -6494,7 +6494,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-08-20,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2006-08-20,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-08-20,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-08-20,Pusat Darah Negara,177,120,90,67,46,30,4,5,0,0,539
+2006-08-20,Pusat Darah Negara,179,120,90,67,46,30,4,5,0,0,541
 2006-08-21,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2006-08-21,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2006-08-21,,0,0,0,0,0,0,0,0,0,0,0
@@ -7138,7 +7138,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-09-12,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2006-09-12,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-09-12,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-09-12,Pusat Darah Negara,144,127,92,62,32,34,6,1,1,0,499
+2006-09-12,Pusat Darah Negara,144,127,92,63,32,34,6,1,1,0,500
 2006-09-13,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2006-09-13,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2006-09-13,,0,0,0,0,0,0,0,0,0,0,0
@@ -7250,7 +7250,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-09-16,Hospital Umum Sarawak,0,0,2,0,0,0,0,0,0,0,2
 2006-09-16,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-09-16,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-09-16,Pusat Darah Negara,400,30,22,23,19,18,11,2,1,0,526
+2006-09-16,Pusat Darah Negara,400,31,22,23,19,18,11,2,1,0,527
 2006-09-17,Hospital Sultanah Nora Ismail,2,3,2,1,1,0,0,0,0,0,9
 2006-09-17,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2006-09-17,,0,0,0,0,0,0,0,0,0,0,0
@@ -8062,7 +8062,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2006-10-15,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2006-10-15,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2006-10-15,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2006-10-15,Pusat Darah Negara,100,131,108,119,104,116,67,31,1,0,777
+2006-10-15,Pusat Darah Negara,100,132,108,119,104,116,67,31,1,0,778
 2006-10-16,Hospital Sultanah Nora Ismail,0,1,0,0,0,0,0,0,0,0,1
 2006-10-16,Hospital Sultanah Aminah,0,0,0,0,1,0,0,0,0,0,1
 2006-10-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -11366,7 +11366,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-02-10,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-02-10,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-02-10,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-02-10,Pusat Darah Negara,292,250,225,194,203,136,78,33,3,0,1414
+2007-02-10,Pusat Darah Negara,292,251,225,194,203,136,78,33,3,0,1415
 2007-02-11,Hospital Sultanah Nora Ismail,43,10,4,0,1,1,0,0,0,0,59
 2007-02-11,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-02-11,,0,0,0,0,0,0,0,0,0,0,0
@@ -12430,7 +12430,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-03-20,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-03-20,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-03-20,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-03-20,Pusat Darah Negara,62,32,6,4,2,1,0,0,0,0,107
+2007-03-20,Pusat Darah Negara,63,32,6,4,2,1,0,0,0,0,108
 2007-03-21,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2007-03-21,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-03-21,,0,0,0,0,0,0,0,0,0,0,0
@@ -13550,7 +13550,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-04-29,Hospital Umum Sarawak,0,1,0,0,0,0,0,0,0,0,1
 2007-04-29,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-04-29,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-04-29,Pusat Darah Negara,169,143,134,113,79,58,22,16,0,0,734
+2007-04-29,Pusat Darah Negara,169,143,135,113,79,58,22,16,0,0,735
 2007-04-30,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2007-04-30,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-04-30,,0,0,0,0,0,0,0,0,0,0,0
@@ -13934,7 +13934,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-05-13,Hospital Raja Permaisuri Bainun,0,0,0,0,0,0,0,0,0,0,0
 2007-05-13,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2007-05-13,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2007-05-13,Hospital Tengku Ampuan Rahimah,7,14,11,14,7,10,6,1,0,0,70
+2007-05-13,Hospital Tengku Ampuan Rahimah,7,14,12,14,8,10,6,1,0,0,72
 2007-05-13,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2007-05-13,Hospital Queen Elizabeth II,0,0,0,0,0,0,0,0,0,0,0
 2007-05-13,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -14614,7 +14614,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-06-06,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-06-06,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-06-06,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-06-06,Pusat Darah Negara,162,30,10,2,2,1,3,2,0,0,212
+2007-06-06,Pusat Darah Negara,163,30,10,2,2,1,3,2,0,0,213
 2007-06-07,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2007-06-07,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-06-07,,0,0,0,0,0,0,0,0,0,0,0
@@ -16294,7 +16294,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-08-05,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-08-05,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-08-05,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-08-05,Pusat Darah Negara,126,66,52,39,21,13,9,0,0,1,327
+2007-08-05,Pusat Darah Negara,126,66,53,39,21,13,9,0,0,1,328
 2007-08-06,Hospital Sultanah Nora Ismail,0,0,1,1,0,5,0,0,0,0,7
 2007-08-06,Hospital Sultanah Aminah,2,3,3,0,1,1,1,1,0,0,12
 2007-08-06,,0,0,0,0,0,0,0,0,0,0,0
@@ -18058,7 +18058,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-10-07,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-10-07,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-10-07,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-10-07,Pusat Darah Negara,76,58,59,67,50,30,34,15,1,0,390
+2007-10-07,Pusat Darah Negara,76,58,59,68,50,30,34,15,1,0,391
 2007-10-08,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2007-10-08,Hospital Sultanah Aminah,1,1,3,1,0,5,1,1,0,0,13
 2007-10-08,,0,0,0,0,0,0,0,0,0,0,0
@@ -18442,7 +18442,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-10-21,Hospital Raja Permaisuri Bainun,0,0,0,0,0,0,0,0,0,0,0
 2007-10-21,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2007-10-21,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2007-10-21,Hospital Tengku Ampuan Rahimah,13,17,14,14,12,6,8,1,0,0,85
+2007-10-21,Hospital Tengku Ampuan Rahimah,14,17,15,14,12,6,8,1,0,0,87
 2007-10-21,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2007-10-21,Hospital Queen Elizabeth II,47,9,10,5,10,6,1,0,1,0,89
 2007-10-21,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -18594,7 +18594,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-10-27,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2007-10-27,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-10-27,,0,0,0,0,0,0,0,0,0,0,0
-2007-10-27,Hospital Sultanah Bahiyah,57,11,2,6,5,1,0,0,0,0,82
+2007-10-27,Hospital Sultanah Bahiyah,58,11,2,6,5,1,0,0,0,0,83
 2007-10-27,,0,0,0,0,0,0,0,0,0,0,0
 2007-10-27,Hospital Raja Perempuan Zainab II,28,7,6,4,0,3,0,0,0,0,48
 2007-10-27,Hospital Melaka,0,0,1,0,0,0,0,0,0,0,1
@@ -19150,7 +19150,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-11-15,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-11-15,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-11-15,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-11-15,Pusat Darah Negara,103,118,70,52,20,9,3,3,0,0,378
+2007-11-15,Pusat Darah Negara,103,118,70,53,20,9,3,3,0,0,379
 2007-11-16,Hospital Sultanah Nora Ismail,0,0,0,0,0,1,0,0,0,0,1
 2007-11-16,Hospital Sultanah Aminah,2,3,3,0,5,3,1,0,0,0,17
 2007-11-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -19738,7 +19738,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2007-12-06,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2007-12-06,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2007-12-06,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2007-12-06,Pusat Darah Negara,80,125,96,53,26,14,3,0,0,0,397
+2007-12-06,Pusat Darah Negara,81,125,96,53,26,14,3,0,0,0,398
 2007-12-07,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2007-12-07,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2007-12-07,,0,0,0,0,0,0,0,0,0,0,0
@@ -23326,7 +23326,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-04-13,Hospital Sultanah Nora Ismail,3,3,1,1,1,2,2,2,0,0,15
 2008-04-13,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2008-04-13,,0,0,0,0,0,0,0,0,0,0,0
-2008-04-13,Hospital Sultanah Bahiyah,15,11,12,17,12,14,6,4,1,0,92
+2008-04-13,Hospital Sultanah Bahiyah,15,11,13,17,12,14,6,4,1,0,93
 2008-04-13,,0,0,0,0,0,0,0,0,0,0,0
 2008-04-13,Hospital Raja Perempuan Zainab II,1,0,0,0,0,1,0,0,0,0,2
 2008-04-13,Hospital Melaka,4,4,8,12,7,5,2,2,1,1,46
@@ -23347,7 +23347,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-04-13,Hospital Queen Elizabeth II,14,9,6,9,5,4,0,1,0,0,48
 2008-04-13,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2008-04-13,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
-2008-04-13,Hospital Umum Sarawak,10,8,10,14,15,11,7,1,0,0,76
+2008-04-13,Hospital Umum Sarawak,10,8,10,14,16,11,7,1,0,0,77
 2008-04-13,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2008-04-13,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2008-04-13,Pusat Darah Negara,71,71,61,70,54,42,23,4,0,0,396
@@ -23630,7 +23630,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-04-23,Hospital Umum Sarawak,27,3,1,2,4,2,0,0,0,0,39
 2008-04-23,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2008-04-23,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2008-04-23,Pusat Darah Negara,86,68,47,24,16,7,12,1,0,0,261
+2008-04-23,Pusat Darah Negara,87,68,47,24,16,7,12,1,0,0,262
 2008-04-24,Hospital Sultanah Nora Ismail,0,0,1,0,0,0,0,0,0,0,1
 2008-04-24,Hospital Sultanah Aminah,0,0,0,2,1,0,0,0,0,0,3
 2008-04-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -23734,7 +23734,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-04-27,Hospital Raja Permaisuri Bainun,6,1,4,2,4,4,0,0,0,0,21
 2008-04-27,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2008-04-27,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2008-04-27,Hospital Tengku Ampuan Rahimah,3,2,5,5,14,4,0,0,0,0,33
+2008-04-27,Hospital Tengku Ampuan Rahimah,4,2,5,5,14,4,0,0,0,0,34
 2008-04-27,Hospital Sultanah Nur Zahirah,1,0,0,0,0,0,0,0,0,0,1
 2008-04-27,Hospital Queen Elizabeth II,11,10,6,4,0,0,0,0,0,0,31
 2008-04-27,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -23742,7 +23742,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-04-27,Hospital Umum Sarawak,0,4,1,1,1,2,4,2,0,0,15
 2008-04-27,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2008-04-27,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2008-04-27,Pusat Darah Negara,59,75,70,65,57,33,15,5,0,0,379
+2008-04-27,Pusat Darah Negara,59,76,70,65,57,33,15,5,0,0,380
 2008-04-28,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,1,0,0,0,1
 2008-04-28,Hospital Sultanah Aminah,0,0,1,0,0,2,0,0,0,0,3
 2008-04-28,,0,0,0,0,0,0,0,0,0,0,0
@@ -23930,7 +23930,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-05-04,Hospital Raja Permaisuri Bainun,2,0,0,0,0,0,0,0,0,0,2
 2008-05-04,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2008-05-04,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2008-05-04,Hospital Tengku Ampuan Rahimah,14,14,9,6,5,0,0,0,1,0,49
+2008-05-04,Hospital Tengku Ampuan Rahimah,14,14,9,6,6,0,0,0,1,0,50
 2008-05-04,Hospital Sultanah Nur Zahirah,21,0,0,0,0,0,0,0,0,0,21
 2008-05-04,Hospital Queen Elizabeth II,3,2,2,4,1,3,1,1,0,0,17
 2008-05-04,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -26374,7 +26374,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-07-30,Hospital Umum Sarawak,7,1,3,1,2,3,0,1,0,0,18
 2008-07-30,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2008-07-30,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2008-07-30,Pusat Darah Negara,280,29,21,8,9,4,3,0,0,0,354
+2008-07-30,Pusat Darah Negara,281,29,21,8,9,4,3,0,0,0,355
 2008-07-31,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2008-07-31,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2008-07-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -26732,7 +26732,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-08-12,Hospital Seri Manjung,57,6,1,0,0,0,0,1,0,0,65
 2008-08-12,Hospital Tengku Ampuan Rahimah,5,3,1,0,2,0,0,0,0,0,11
 2008-08-12,Hospital Sultanah Nur Zahirah,28,0,2,4,2,1,0,0,0,0,37
-2008-08-12,Hospital Queen Elizabeth II,141,5,1,0,1,0,0,0,0,0,148
+2008-08-12,Hospital Queen Elizabeth II,142,5,1,0,1,0,0,0,0,0,149
 2008-08-12,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2008-08-12,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
 2008-08-12,Hospital Umum Sarawak,2,2,4,3,0,2,4,0,0,0,17
@@ -27642,7 +27642,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2008-09-14,,0,0,0,0,0,0,0,0,0,0,0
 2008-09-14,Hospital Raja Perempuan Zainab II,1,2,0,0,0,0,0,0,0,0,3
 2008-09-14,Hospital Melaka,0,3,0,0,0,0,0,0,0,0,3
-2008-09-14,Hospital Tuanku Jaafar,6,2,2,6,15,7,9,3,1,0,51
+2008-09-14,Hospital Tuanku Jaafar,7,2,2,6,15,7,9,3,1,0,52
 2008-09-14,,0,0,0,0,0,0,0,0,0,0,0
 2008-09-14,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2008-09-14,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
@@ -32366,7 +32366,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-03-01,Hospital Umum Sarawak,1,1,1,0,1,0,1,0,0,0,5
 2009-03-01,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2009-03-01,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2009-03-01,Pusat Darah Negara,100,82,64,52,41,31,15,7,0,0,392
+2009-03-01,Pusat Darah Negara,100,83,64,52,41,31,15,7,0,0,393
 2009-03-02,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2009-03-02,Hospital Sultanah Aminah,2,2,0,0,1,0,1,0,0,0,6
 2009-03-02,,0,0,0,0,0,0,0,0,0,0,0
@@ -34099,7 +34099,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-05-02,Hospital Queen Elizabeth II,8,9,10,3,5,3,0,0,0,0,38
 2009-05-02,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2009-05-02,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
-2009-05-02,Hospital Umum Sarawak,3,3,4,1,3,2,1,0,0,0,17
+2009-05-02,Hospital Umum Sarawak,3,3,4,2,3,2,1,0,0,0,18
 2009-05-02,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2009-05-02,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2009-05-02,Pusat Darah Negara,17,7,14,8,1,5,0,0,0,0,52
@@ -36594,7 +36594,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-07-30,Hospital Umum Sarawak,0,0,0,1,0,0,0,0,0,0,1
 2009-07-30,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2009-07-30,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2009-07-30,Pusat Darah Negara,53,17,8,9,1,4,4,0,0,0,96
+2009-07-30,Pusat Darah Negara,54,17,8,9,1,4,4,0,0,0,97
 2009-07-31,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2009-07-31,Hospital Sultanah Aminah,1,2,0,5,0,1,0,0,0,0,9
 2009-07-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -37042,7 +37042,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-08-15,Hospital Umum Sarawak,64,8,4,3,5,4,3,0,0,1,92
 2009-08-15,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2009-08-15,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2009-08-15,Pusat Darah Negara,112,107,55,32,26,14,2,2,0,0,350
+2009-08-15,Pusat Darah Negara,112,107,55,32,27,14,2,2,0,0,351
 2009-08-16,Hospital Sultanah Nora Ismail,4,0,1,2,1,2,0,0,0,0,10
 2009-08-16,Hospital Sultanah Aminah,15,10,15,9,6,5,1,0,0,0,61
 2009-08-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -39170,7 +39170,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-10-30,Hospital Umum Sarawak,0,1,0,0,1,0,0,0,0,0,2
 2009-10-30,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2009-10-30,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2009-10-30,Pusat Darah Negara,33,42,25,19,10,7,3,1,0,0,140
+2009-10-30,Pusat Darah Negara,32,43,25,19,10,7,3,1,0,0,140
 2009-10-31,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2009-10-31,Hospital Sultanah Aminah,10,3,9,9,6,8,3,1,0,0,49
 2009-10-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -40142,7 +40142,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2009-12-04,Hospital Raja Permaisuri Bainun,0,0,1,0,1,0,0,0,0,0,2
 2009-12-04,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2009-12-04,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2009-12-04,Hospital Tengku Ampuan Rahimah,4,3,4,4,1,0,0,0,0,0,16
+2009-12-04,Hospital Tengku Ampuan Rahimah,5,2,4,4,1,0,0,0,0,0,16
 2009-12-04,Hospital Sultanah Nur Zahirah,14,11,7,2,0,2,0,0,0,0,36
 2009-12-04,Hospital Queen Elizabeth II,10,6,2,0,1,0,0,0,0,0,19
 2009-12-04,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -41550,7 +41550,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-01-23,Hospital Umum Sarawak,30,19,5,4,7,4,2,1,0,0,72
 2010-01-23,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2010-01-23,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2010-01-23,Pusat Darah Negara,81,53,42,27,17,5,17,4,0,0,246
+2010-01-23,Pusat Darah Negara,81,53,42,27,18,5,17,4,0,0,247
 2010-01-24,Hospital Sultanah Nora Ismail,39,26,7,7,11,0,0,0,0,0,90
 2010-01-24,Hospital Sultanah Aminah,14,22,13,22,11,9,2,2,1,0,96
 2010-01-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -43398,7 +43398,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-03-30,Hospital Umum Sarawak,5,7,2,0,2,0,1,0,0,0,17
 2010-03-30,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2010-03-30,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2010-03-30,Pusat Darah Negara,60,17,18,12,10,4,3,1,0,0,125
+2010-03-30,Pusat Darah Negara,61,17,18,12,10,4,3,1,0,0,126
 2010-03-31,Hospital Sultanah Nora Ismail,14,0,0,0,0,0,0,0,0,0,14
 2010-03-31,Hospital Sultanah Aminah,2,0,2,0,1,0,0,0,0,0,5
 2010-03-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -43434,7 +43434,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-04-01,,0,0,0,0,0,0,0,0,0,0,0
 2010-04-01,Hospital Raja Perempuan Zainab II,1,0,0,0,0,1,1,0,0,0,3
 2010-04-01,Hospital Melaka,22,0,0,1,0,1,0,0,0,0,24
-2010-04-01,Hospital Tuanku Jaafar,15,5,5,1,1,0,0,0,0,0,27
+2010-04-01,Hospital Tuanku Jaafar,15,5,5,1,2,0,0,0,0,0,28
 2010-04-01,,0,0,0,0,0,0,0,0,0,0,0
 2010-04-01,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2010-04-01,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
@@ -44790,7 +44790,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-05-19,Hospital Raja Permaisuri Bainun,11,9,6,5,0,1,0,0,0,0,32
 2010-05-19,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2010-05-19,Hospital Seri Manjung,0,1,0,0,0,0,0,0,0,0,1
-2010-05-19,Hospital Tengku Ampuan Rahimah,2,9,4,2,0,1,3,0,0,0,21
+2010-05-19,Hospital Tengku Ampuan Rahimah,2,10,4,2,0,1,3,0,0,0,22
 2010-05-19,Hospital Sultanah Nur Zahirah,1,0,1,0,0,0,0,0,0,0,2
 2010-05-19,Hospital Queen Elizabeth II,3,3,2,0,0,2,0,0,0,0,10
 2010-05-19,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -45470,7 +45470,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-06-12,Hospital Umum Sarawak,3,0,2,2,1,2,0,0,0,0,10
 2010-06-12,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2010-06-12,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2010-06-12,Pusat Darah Negara,42,35,44,31,39,21,9,2,0,0,223
+2010-06-12,Pusat Darah Negara,42,35,45,31,39,21,9,2,0,0,224
 2010-06-13,Hospital Sultanah Nora Ismail,15,1,8,1,1,1,3,0,0,0,30
 2010-06-13,Hospital Sultanah Aminah,2,6,4,6,8,9,2,0,0,0,37
 2010-06-13,,0,0,0,0,0,0,0,0,0,0,0
@@ -45882,7 +45882,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-06-27,Hospital Raja Permaisuri Bainun,0,0,0,0,0,0,0,0,0,0,0
 2010-06-27,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2010-06-27,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2010-06-27,Hospital Tengku Ampuan Rahimah,18,6,6,5,6,4,6,4,0,0,55
+2010-06-27,Hospital Tengku Ampuan Rahimah,18,7,6,5,6,4,6,4,0,0,56
 2010-06-27,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2010-06-27,Hospital Queen Elizabeth II,2,1,1,1,0,3,0,1,0,0,9
 2010-06-27,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -46470,7 +46470,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-07-18,Hospital Raja Permaisuri Bainun,3,3,4,8,5,2,4,1,0,0,30
 2010-07-18,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2010-07-18,Hospital Seri Manjung,1,1,2,3,2,2,2,0,0,0,13
-2010-07-18,Hospital Tengku Ampuan Rahimah,40,18,25,21,15,16,2,1,0,0,138
+2010-07-18,Hospital Tengku Ampuan Rahimah,40,18,26,21,15,16,2,1,0,0,139
 2010-07-18,Hospital Sultanah Nur Zahirah,0,0,1,2,0,0,0,0,0,0,3
 2010-07-18,Hospital Queen Elizabeth II,6,5,2,0,6,2,5,1,0,0,27
 2010-07-18,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -47422,7 +47422,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-08-21,Hospital Raja Permaisuri Bainun,5,6,9,13,7,8,2,1,0,0,51
 2010-08-21,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2010-08-21,Hospital Seri Manjung,0,5,3,3,0,2,1,0,0,0,14
-2010-08-21,Hospital Tengku Ampuan Rahimah,15,11,12,5,9,7,2,1,0,0,62
+2010-08-21,Hospital Tengku Ampuan Rahimah,15,11,13,5,9,7,2,1,0,0,63
 2010-08-21,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2010-08-21,Hospital Queen Elizabeth II,1,0,0,1,1,2,1,0,0,0,6
 2010-08-21,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -47842,7 +47842,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-09-05,Hospital Raja Permaisuri Bainun,1,1,2,2,1,2,0,1,0,0,10
 2010-09-05,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2010-09-05,Hospital Seri Manjung,2,0,1,1,0,0,0,0,0,0,4
-2010-09-05,Hospital Tengku Ampuan Rahimah,6,5,7,3,8,3,2,2,0,0,36
+2010-09-05,Hospital Tengku Ampuan Rahimah,6,5,7,4,8,3,2,2,0,0,37
 2010-09-05,Hospital Sultanah Nur Zahirah,30,3,1,0,1,0,0,0,0,0,35
 2010-09-05,Hospital Queen Elizabeth II,0,0,0,0,0,0,0,0,0,0,0
 2010-09-05,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -49982,7 +49982,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-11-21,Hospital Sultanah Nora Ismail,2,5,4,0,0,1,1,0,0,0,13
 2010-11-21,Hospital Sultanah Aminah,7,5,2,6,4,2,0,1,0,1,28
 2010-11-21,,0,0,0,0,0,0,0,0,0,0,0
-2010-11-21,Hospital Sultanah Bahiyah,13,11,2,5,9,7,2,2,0,0,51
+2010-11-21,Hospital Sultanah Bahiyah,13,12,2,5,9,7,2,2,0,0,52
 2010-11-21,,0,0,0,0,0,0,0,0,0,0,0
 2010-11-21,Hospital Raja Perempuan Zainab II,3,0,0,1,0,1,1,0,0,0,6
 2010-11-21,Hospital Melaka,10,3,5,2,5,4,4,1,0,0,34
@@ -50650,7 +50650,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2010-12-14,Hospital Umum Sarawak,4,2,0,0,0,1,0,0,0,0,7
 2010-12-14,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2010-12-14,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2010-12-14,Pusat Darah Negara,94,61,39,20,13,7,2,0,0,0,236
+2010-12-14,Pusat Darah Negara,94,62,39,20,13,7,2,0,0,0,237
 2010-12-15,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2010-12-15,Hospital Sultanah Aminah,0,2,0,0,0,1,0,0,0,0,3
 2010-12-15,,0,0,0,0,0,0,0,0,0,0,0
@@ -51370,7 +51370,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-01-09,Hospital Raja Permaisuri Bainun,39,15,8,7,5,3,2,0,0,0,79
 2011-01-09,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2011-01-09,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2011-01-09,Hospital Tengku Ampuan Rahimah,3,4,1,1,4,3,5,2,0,0,23
+2011-01-09,Hospital Tengku Ampuan Rahimah,3,5,1,1,4,3,5,2,0,0,24
 2011-01-09,Hospital Sultanah Nur Zahirah,3,0,0,0,0,0,0,0,0,0,3
 2011-01-09,Hospital Queen Elizabeth II,8,5,2,1,6,4,0,1,0,0,27
 2011-01-09,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -55664,7 +55664,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-06-11,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2011-06-11,Pusat Darah Negara,41,35,26,13,19,7,4,0,0,0,145
 2011-06-12,Hospital Sultanah Nora Ismail,12,5,1,0,2,0,2,0,0,0,22
-2011-06-12,Hospital Sultanah Aminah,28,17,17,22,9,7,2,1,0,0,103
+2011-06-12,Hospital Sultanah Aminah,29,17,17,22,9,7,2,1,0,0,104
 2011-06-12,,0,0,0,0,0,0,0,0,0,0,0
 2011-06-12,Hospital Sultanah Bahiyah,8,10,4,6,11,3,1,0,0,0,43
 2011-06-12,,0,0,0,0,0,0,0,0,0,0,0
@@ -56110,7 +56110,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-06-27,Hospital Umum Sarawak,2,0,1,0,0,1,0,0,0,0,4
 2011-06-27,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2011-06-27,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2011-06-27,Pusat Darah Negara,40,29,16,21,7,7,2,0,0,0,122
+2011-06-27,Pusat Darah Negara,40,30,16,21,7,7,2,0,0,0,123
 2011-06-28,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2011-06-28,Hospital Sultanah Aminah,2,2,2,3,1,6,1,0,0,0,17
 2011-06-28,,0,0,0,0,0,0,0,0,0,0,0
@@ -57125,7 +57125,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-08-03,Hospital Sultanah Bahiyah,0,0,0,0,0,0,0,0,0,0,0
 2011-08-03,,0,0,0,0,0,0,0,0,0,0,0
 2011-08-03,Hospital Raja Perempuan Zainab II,0,0,0,0,0,0,0,0,0,0,0
-2011-08-03,Hospital Melaka,32,0,0,0,0,0,0,0,0,0,32
+2011-08-03,Hospital Melaka,33,0,0,0,0,0,0,0,0,0,33
 2011-08-03,Hospital Tuanku Jaafar,0,0,0,0,0,0,0,0,0,0,0
 2011-08-03,,0,0,0,0,0,0,0,0,0,0,0
 2011-08-03,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
@@ -57146,7 +57146,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-08-03,Hospital Umum Sarawak,10,0,0,0,0,1,0,0,0,0,11
 2011-08-03,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2011-08-03,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2011-08-03,Pusat Darah Negara,206,1,0,2,0,0,1,0,0,0,210
+2011-08-03,Pusat Darah Negara,207,1,0,2,0,0,1,0,0,0,211
 2011-08-04,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2011-08-04,Hospital Sultanah Aminah,29,0,0,0,1,0,1,0,0,0,31
 2011-08-04,,0,0,0,0,0,0,0,0,0,0,0
@@ -58434,7 +58434,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-09-18,Hospital Umum Sarawak,3,7,5,2,2,1,2,0,0,0,22
 2011-09-18,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2011-09-18,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2011-09-18,Pusat Darah Negara,82,45,28,28,20,9,10,12,1,0,235
+2011-09-18,Pusat Darah Negara,82,46,28,28,20,9,10,12,1,0,236
 2011-09-19,Hospital Sultanah Nora Ismail,1,0,1,0,0,0,0,0,0,0,2
 2011-09-19,Hospital Sultanah Aminah,34,4,0,1,1,0,0,0,0,0,40
 2011-09-19,,0,0,0,0,0,0,0,0,0,0,0
@@ -60536,7 +60536,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2011-12-02,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2011-12-02,Pusat Darah Negara,85,54,44,18,10,8,4,2,0,0,225
 2011-12-03,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
-2011-12-03,Hospital Sultanah Aminah,16,15,5,8,3,6,2,0,0,0,55
+2011-12-03,Hospital Sultanah Aminah,16,16,5,8,3,6,2,0,0,0,56
 2011-12-03,,0,0,0,0,0,0,0,0,0,0,0
 2011-12-03,Hospital Sultanah Bahiyah,4,4,2,1,1,0,0,0,0,0,12
 2011-12-03,,0,0,0,0,0,0,0,0,0,0,0
@@ -62046,7 +62046,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2012-01-25,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2012-01-25,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2012-01-25,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2012-01-25,Pusat Darah Negara,12,7,5,6,3,2,2,1,0,0,38
+2012-01-25,Pusat Darah Negara,13,7,5,6,3,2,2,1,0,0,39
 2012-01-26,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2012-01-26,Hospital Sultanah Aminah,0,2,2,3,5,1,0,0,0,0,13
 2012-01-26,,0,0,0,0,0,0,0,0,0,0,0
@@ -64510,7 +64510,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2012-04-22,Hospital Umum Sarawak,2,7,7,7,3,1,1,1,0,0,29
 2012-04-22,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2012-04-22,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2012-04-22,Pusat Darah Negara,57,46,33,28,19,11,10,5,0,0,209
+2012-04-22,Pusat Darah Negara,57,47,33,28,19,11,10,5,0,0,210
 2012-04-23,Hospital Sultanah Nora Ismail,0,2,0,0,0,0,0,0,0,0,2
 2012-04-23,Hospital Sultanah Aminah,7,6,0,1,0,1,0,1,0,0,16
 2012-04-23,,0,0,0,0,0,0,0,0,0,0,0
@@ -64706,7 +64706,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2012-04-29,Hospital Umum Sarawak,5,0,5,0,2,1,0,1,0,0,14
 2012-04-29,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2012-04-29,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2012-04-29,Pusat Darah Negara,25,17,33,21,19,22,10,4,0,0,151
+2012-04-29,Pusat Darah Negara,25,17,34,21,19,22,10,4,0,0,152
 2012-04-30,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2012-04-30,Hospital Sultanah Aminah,5,15,5,6,4,0,0,0,0,7,42
 2012-04-30,,0,0,0,0,0,0,0,0,0,0,0
@@ -70586,7 +70586,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2012-11-25,Hospital Umum Sarawak,8,1,2,1,1,3,0,0,0,0,16
 2012-11-25,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2012-11-25,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2012-11-25,Pusat Darah Negara,43,23,27,22,30,18,7,1,0,0,171
+2012-11-25,Pusat Darah Negara,43,24,27,22,30,18,7,1,0,0,172
 2012-11-26,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2012-11-26,Hospital Sultanah Aminah,0,0,0,2,0,2,0,1,0,0,5
 2012-11-26,,0,0,0,0,0,0,0,0,0,0,0
@@ -71174,7 +71174,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2012-12-16,Hospital Umum Sarawak,2,5,6,1,1,0,2,0,0,0,17
 2012-12-16,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2012-12-16,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2012-12-16,Pusat Darah Negara,46,39,24,25,17,6,3,1,0,0,161
+2012-12-16,Pusat Darah Negara,46,39,25,25,17,6,3,1,0,0,162
 2012-12-17,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2012-12-17,Hospital Sultanah Aminah,0,0,1,0,0,0,1,0,0,0,2
 2012-12-17,,0,0,0,0,0,0,0,0,0,0,0
@@ -71958,7 +71958,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-01-13,Hospital Umum Sarawak,2,5,5,2,0,1,1,0,0,0,16
 2013-01-13,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2013-01-13,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2013-01-13,Pusat Darah Negara,49,41,23,34,18,8,10,3,0,0,186
+2013-01-13,Pusat Darah Negara,49,41,23,35,17,8,10,3,0,0,186
 2013-01-14,Hospital Sultanah Nora Ismail,0,0,0,1,0,0,0,0,0,0,1
 2013-01-14,Hospital Sultanah Aminah,13,13,10,5,1,0,0,0,0,0,42
 2013-01-14,,0,0,0,0,0,0,0,0,0,0,0
@@ -74646,7 +74646,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-04-19,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2013-04-19,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2013-04-19,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2013-04-19,Pusat Darah Negara,47,44,26,15,14,8,1,2,0,0,157
+2013-04-19,Pusat Darah Negara,47,45,26,15,14,8,1,2,0,0,158
 2013-04-20,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2013-04-20,Hospital Sultanah Aminah,11,7,11,14,3,5,1,2,0,1,55
 2013-04-20,,0,0,0,0,0,0,0,0,0,0,0
@@ -77306,7 +77306,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-07-23,Hospital Umum Sarawak,0,0,0,1,0,0,0,0,0,0,1
 2013-07-23,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2013-07-23,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2013-07-23,Pusat Darah Negara,67,2,3,1,2,1,0,0,0,0,76
+2013-07-23,Pusat Darah Negara,68,2,3,1,2,1,0,0,0,0,77
 2013-07-24,Hospital Sultanah Nora Ismail,18,7,8,5,2,1,2,2,0,0,45
 2013-07-24,Hospital Sultanah Aminah,30,3,1,1,2,0,0,1,0,0,38
 2013-07-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -78904,7 +78904,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-09-18,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2013-09-18,Pusat Darah Negara,203,14,24,18,8,5,2,1,0,0,275
 2013-09-19,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
-2013-09-19,Hospital Sultanah Aminah,53,2,1,1,1,0,0,0,0,0,58
+2013-09-19,Hospital Sultanah Aminah,54,2,1,1,1,0,0,0,0,0,59
 2013-09-19,,0,0,0,0,0,0,0,0,0,0,0
 2013-09-19,Hospital Sultanah Bahiyah,41,15,8,7,3,2,0,0,0,0,76
 2013-09-19,,0,0,0,0,0,0,0,0,0,0,0
@@ -85075,7 +85075,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-04-27,Hospital Tengku Ampuan Afzan,2,1,0,0,2,0,0,0,0,0,5
 2014-04-27,Hospital Sultan Haji Ahmad Shah,1,2,1,0,3,1,3,1,0,0,12
 2014-04-27,Hospital Seberang Jaya,0,0,0,0,0,0,0,0,0,0,0
-2014-04-27,Hospital Pulau Pinang,22,39,47,40,35,30,15,4,1,0,233
+2014-04-27,Hospital Pulau Pinang,22,39,47,40,35,32,15,4,1,0,235
 2014-04-27,,0,0,0,0,0,0,0,0,0,0,0
 2014-04-27,,0,0,0,0,0,0,0,0,0,0,0
 2014-04-27,,0,0,0,0,0,0,0,0,0,0,0
@@ -85467,7 +85467,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-05-11,Hospital Tengku Ampuan Afzan,5,3,4,1,2,1,1,0,0,0,17
 2014-05-11,Hospital Sultan Haji Ahmad Shah,3,0,2,3,10,2,1,1,0,0,22
 2014-05-11,Hospital Seberang Jaya,9,2,6,19,19,5,1,1,0,0,62
-2014-05-11,Hospital Pulau Pinang,31,15,13,15,18,13,0,2,0,0,107
+2014-05-11,Hospital Pulau Pinang,31,15,13,16,18,13,0,2,0,0,108
 2014-05-11,,0,0,0,0,0,0,0,0,0,0,0
 2014-05-11,,0,0,0,0,0,0,0,0,0,0,0
 2014-05-11,,0,0,0,0,0,0,0,0,0,0,0
@@ -86083,7 +86083,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-06-02,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2014-06-02,Hospital Sultan Haji Ahmad Shah,0,0,1,1,0,0,0,0,0,0,2
 2014-06-02,Hospital Seberang Jaya,0,1,2,2,1,0,0,0,0,0,6
-2014-06-02,Hospital Pulau Pinang,7,4,3,3,3,5,3,0,0,0,28
+2014-06-02,Hospital Pulau Pinang,7,5,3,3,3,5,3,0,0,0,29
 2014-06-02,,0,0,0,0,0,0,0,0,0,0,0
 2014-06-02,,0,0,0,0,0,0,0,0,0,0,0
 2014-06-02,,0,0,0,0,0,0,0,0,0,0,0
@@ -88211,7 +88211,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-08-17,Hospital Tengku Ampuan Afzan,5,1,2,0,1,0,1,0,0,0,10
 2014-08-17,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2014-08-17,Hospital Seberang Jaya,0,0,0,0,0,0,0,0,0,0,0
-2014-08-17,Hospital Pulau Pinang,25,21,23,28,29,22,13,4,1,0,166
+2014-08-17,Hospital Pulau Pinang,25,21,23,29,29,22,13,4,1,0,167
 2014-08-17,,0,0,0,0,0,0,0,0,0,0,0
 2014-08-17,,0,0,0,0,0,0,0,0,0,0,0
 2014-08-17,,0,0,0,0,0,0,0,0,0,0,0
@@ -88491,7 +88491,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-08-27,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2014-08-27,Hospital Sultan Haji Ahmad Shah,35,0,0,0,0,0,0,0,0,0,35
 2014-08-27,Hospital Seberang Jaya,67,1,0,1,1,1,0,0,0,0,71
-2014-08-27,Hospital Pulau Pinang,50,20,22,19,20,9,3,1,0,0,144
+2014-08-27,Hospital Pulau Pinang,50,20,23,19,20,9,3,1,0,0,145
 2014-08-27,,0,0,0,0,0,0,0,0,0,0,0
 2014-08-27,,0,0,0,0,0,0,0,0,0,0,0
 2014-08-27,,0,0,0,0,0,0,0,0,0,0,0
@@ -88646,7 +88646,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-09-01,Hospital Umum Sarawak,0,1,0,1,4,1,0,0,0,0,7
 2014-09-01,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2014-09-01,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2014-09-01,Pusat Darah Negara,28,25,24,14,12,10,7,4,0,0,124
+2014-09-01,Pusat Darah Negara,28,26,24,14,12,10,7,4,0,0,125
 2014-09-02,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2014-09-02,Hospital Sultanah Aminah,3,9,2,3,4,0,0,0,0,0,21
 2014-09-02,,0,0,0,0,0,0,0,0,0,0,0
@@ -89275,7 +89275,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-09-24,Hospital Tengku Ampuan Afzan,13,1,0,0,0,0,0,0,0,0,14
 2014-09-24,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2014-09-24,Hospital Seberang Jaya,39,2,2,0,1,0,1,0,0,0,45
-2014-09-24,Hospital Pulau Pinang,2,3,3,2,1,1,1,0,0,0,13
+2014-09-24,Hospital Pulau Pinang,2,3,4,2,1,1,1,0,0,0,14
 2014-09-24,,0,0,0,0,0,0,0,0,0,0,0
 2014-09-24,,0,0,0,0,0,0,0,0,0,0,0
 2014-09-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -89839,7 +89839,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-10-14,,0,0,0,0,0,0,0,0,0,0,0
 2014-10-14,,0,0,0,0,0,0,0,0,0,0,0
 2014-10-14,,0,0,0,0,0,0,0,0,0,0,0
-2014-10-14,Hospital Raja Permaisuri Bainun,86,7,3,4,2,0,4,0,0,1,107
+2014-10-14,Hospital Raja Permaisuri Bainun,86,7,3,4,3,0,4,0,0,1,108
 2014-10-14,Hospital Taiping,5,3,0,0,1,0,0,0,0,0,9
 2014-10-14,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
 2014-10-14,Hospital Tengku Ampuan Rahimah,2,0,0,0,0,0,0,0,0,0,2
@@ -91949,7 +91949,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2014-12-28,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
 2014-12-28,Hospital Umum Sarawak,2,2,3,2,2,1,1,1,1,0,15
 2014-12-28,Hospital Miri,2,2,1,3,1,2,1,1,0,0,13
-2014-12-28,Hospital Sibu,12,6,18,8,19,19,10,4,0,0,96
+2014-12-28,Hospital Sibu,12,6,18,8,19,20,10,4,0,0,97
 2014-12-28,Pusat Darah Negara,47,30,33,35,20,9,5,0,1,0,180
 2014-12-29,Hospital Sultanah Nora Ismail,0,0,0,0,1,0,0,0,0,0,1
 2014-12-29,Hospital Sultanah Aminah,2,0,1,0,0,0,0,0,0,0,3
@@ -92243,7 +92243,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-01-08,Hospital Tengku Ampuan Afzan,1,0,0,0,0,0,0,0,0,0,1
 2015-01-08,Hospital Sultan Haji Ahmad Shah,1,0,2,0,0,3,1,1,0,0,8
 2015-01-08,Hospital Seberang Jaya,0,1,0,0,2,0,0,0,0,0,3
-2015-01-08,Hospital Pulau Pinang,10,8,14,18,8,2,2,0,0,0,62
+2015-01-08,Hospital Pulau Pinang,10,8,15,18,8,2,2,0,0,0,63
 2015-01-08,,0,0,0,0,0,0,0,0,0,0,0
 2015-01-08,,0,0,0,0,0,0,0,0,0,0,0
 2015-01-08,,0,0,0,0,0,0,0,0,0,0,0
@@ -92538,7 +92538,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-01-18,Hospital Umum Sarawak,3,4,2,2,1,3,1,0,0,0,16
 2015-01-18,Hospital Miri,1,1,4,2,4,0,1,0,0,0,13
 2015-01-18,Hospital Sibu,19,13,4,7,15,8,10,3,0,0,79
-2015-01-18,Pusat Darah Negara,35,30,33,28,16,3,4,0,0,0,149
+2015-01-18,Pusat Darah Negara,35,30,33,28,16,4,4,0,0,0,150
 2015-01-19,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2015-01-19,Hospital Sultanah Aminah,71,0,1,1,1,0,0,0,0,0,74
 2015-01-19,,0,0,0,0,0,0,0,0,0,0,0
@@ -92782,7 +92782,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-01-27,Hospital Raja Permaisuri Bainun,20,1,4,0,1,1,0,1,0,0,28
 2015-01-27,Hospital Taiping,1,0,1,0,0,0,0,0,0,0,2
 2015-01-27,Hospital Seri Manjung,6,2,2,3,1,1,0,0,0,0,15
-2015-01-27,Hospital Tengku Ampuan Rahimah,18,24,6,4,3,1,2,0,0,0,58
+2015-01-27,Hospital Tengku Ampuan Rahimah,18,24,7,4,3,1,2,0,0,0,59
 2015-01-27,Hospital Sultanah Nur Zahirah,7,1,2,0,1,0,0,0,0,0,11
 2015-01-27,Hospital Queen Elizabeth II,19,1,2,0,0,0,1,0,0,0,23
 2015-01-27,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -93321,7 +93321,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-02-15,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
 2015-02-15,Hospital Umum Sarawak,7,3,3,1,2,0,0,1,0,0,17
 2015-02-15,Hospital Miri,1,0,0,2,3,2,1,1,0,0,10
-2015-02-15,Hospital Sibu,9,4,13,11,6,16,11,1,1,0,72
+2015-02-15,Hospital Sibu,9,4,13,11,6,17,11,1,1,0,73
 2015-02-15,Pusat Darah Negara,41,33,36,29,22,13,3,4,0,0,181
 2015-02-16,Hospital Sultanah Nora Ismail,1,1,1,0,0,0,0,0,0,0,3
 2015-02-16,Hospital Sultanah Aminah,34,2,1,1,0,0,1,0,0,0,39
@@ -93630,7 +93630,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-02-26,Hospital Umum Sarawak,8,0,2,0,0,1,0,0,0,0,11
 2015-02-26,Hospital Miri,1,0,0,0,0,2,1,0,0,0,4
 2015-02-26,Hospital Sibu,0,2,2,10,5,5,4,2,0,0,30
-2015-02-26,Pusat Darah Negara,242,23,18,6,3,2,0,0,0,0,294
+2015-02-26,Pusat Darah Negara,243,23,18,6,3,2,0,0,0,0,295
 2015-02-27,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2015-02-27,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2015-02-27,,0,0,0,0,0,0,0,0,0,0,0
@@ -94739,7 +94739,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-04-07,,0,0,0,0,0,0,0,0,0,0,0
 2015-04-07,,0,0,0,0,0,0,0,0,0,0,0
 2015-04-07,,0,0,0,0,0,0,0,0,0,0,0
-2015-04-07,Hospital Raja Permaisuri Bainun,17,2,3,0,0,0,0,0,0,0,22
+2015-04-07,Hospital Raja Permaisuri Bainun,17,2,2,0,0,0,0,0,0,1,22
 2015-04-07,Hospital Taiping,0,0,1,2,0,0,2,0,0,0,5
 2015-04-07,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
 2015-04-07,Hospital Tengku Ampuan Rahimah,20,10,11,5,3,3,7,5,0,0,64
@@ -95419,7 +95419,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-05-01,Hospital Queen Elizabeth II,17,8,5,3,4,2,5,0,0,0,44
 2015-05-01,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2015-05-01,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
-2015-05-01,Hospital Umum Sarawak,14,13,8,8,5,6,4,1,0,0,59
+2015-05-01,Hospital Umum Sarawak,14,13,8,8,6,6,4,1,0,0,60
 2015-05-01,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2015-05-01,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2015-05-01,Pusat Darah Negara,51,34,29,36,36,33,16,9,1,0,245
@@ -97241,7 +97241,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-07-05,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
 2015-07-05,Hospital Umum Sarawak,18,4,9,5,2,2,1,1,0,0,42
 2015-07-05,Hospital Miri,1,1,3,2,0,0,1,0,0,0,8
-2015-07-05,Hospital Sibu,9,5,6,3,2,2,4,2,0,0,33
+2015-07-05,Hospital Sibu,9,5,6,4,2,2,4,2,0,0,34
 2015-07-05,Pusat Darah Negara,51,27,39,44,24,28,9,10,0,0,232
 2015-07-06,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2015-07-06,Hospital Sultanah Aminah,0,0,0,0,0,0,1,0,0,0,1
@@ -98011,7 +98011,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-08-02,Hospital Tengku Ampuan Afzan,2,0,3,1,1,1,0,0,0,0,8
 2015-08-02,Hospital Sultan Haji Ahmad Shah,14,1,3,4,2,4,2,1,0,0,31
 2015-08-02,Hospital Seberang Jaya,2,2,3,7,3,1,1,1,0,0,20
-2015-08-02,Hospital Pulau Pinang,18,10,18,11,13,3,1,0,0,0,74
+2015-08-02,Hospital Pulau Pinang,18,10,18,11,14,3,1,0,0,0,75
 2015-08-02,,0,0,0,0,0,0,0,0,0,0,0
 2015-08-02,,0,0,0,0,0,0,0,0,0,0,0
 2015-08-02,,0,0,0,0,0,0,0,0,0,0,0
@@ -98410,7 +98410,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-08-16,Hospital Raja Permaisuri Bainun,20,4,3,3,2,0,1,0,0,0,33
 2015-08-16,Hospital Taiping,6,5,2,2,2,1,0,0,1,0,19
 2015-08-16,Hospital Seri Manjung,2,0,1,0,0,1,0,0,0,0,4
-2015-08-16,Hospital Tengku Ampuan Rahimah,11,7,11,8,1,3,0,0,0,0,41
+2015-08-16,Hospital Tengku Ampuan Rahimah,12,7,11,8,1,3,0,0,0,0,42
 2015-08-16,Hospital Sultanah Nur Zahirah,24,0,0,0,0,0,1,0,0,0,25
 2015-08-16,Hospital Queen Elizabeth II,20,7,5,4,8,3,2,0,1,1,51
 2015-08-16,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -98560,7 +98560,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-08-21,Hospital Sibu,0,1,0,0,0,0,0,0,0,0,1
 2015-08-21,Pusat Darah Negara,7,22,6,8,2,3,3,0,1,0,52
 2015-08-22,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
-2015-08-22,Hospital Sultanah Aminah,23,16,24,24,3,2,0,1,0,0,93
+2015-08-22,Hospital Sultanah Aminah,23,16,24,24,4,2,0,1,0,0,94
 2015-08-22,,0,0,0,0,0,0,0,0,0,0,0
 2015-08-22,Hospital Sultanah Bahiyah,16,12,6,3,1,6,2,2,0,0,48
 2015-08-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -98802,7 +98802,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2015-08-30,Hospital Raja Permaisuri Bainun,27,14,14,9,5,4,1,0,1,0,75
 2015-08-30,Hospital Taiping,0,0,4,0,1,4,1,0,1,0,11
 2015-08-30,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2015-08-30,Hospital Tengku Ampuan Rahimah,12,12,10,10,8,2,5,2,0,0,61
+2015-08-30,Hospital Tengku Ampuan Rahimah,12,12,10,10,8,3,5,2,0,0,62
 2015-08-30,Hospital Sultanah Nur Zahirah,8,1,0,1,0,0,0,0,0,0,10
 2015-08-30,Hospital Queen Elizabeth II,5,2,0,4,0,0,0,0,0,0,11
 2015-08-30,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -108063,7 +108063,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2016-07-26,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2016-07-26,Hospital Sultan Haji Ahmad Shah,1,1,0,0,1,0,0,1,0,0,4
 2016-07-26,Hospital Seberang Jaya,29,10,11,2,2,0,0,0,0,1,55
-2016-07-26,Hospital Pulau Pinang,65,1,1,0,0,0,1,0,0,0,68
+2016-07-26,Hospital Pulau Pinang,65,1,1,0,1,0,1,0,0,0,69
 2016-07-26,,0,0,0,0,0,0,0,0,0,0,0
 2016-07-26,,0,0,0,0,0,0,0,0,0,0,0
 2016-07-26,,0,0,0,0,0,0,0,0,0,0,0
@@ -108175,7 +108175,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2016-07-30,Hospital Tengku Ampuan Afzan,1,0,0,0,0,0,0,0,0,0,1
 2016-07-30,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2016-07-30,Hospital Seberang Jaya,18,0,1,1,2,4,1,0,0,0,27
-2016-07-30,Hospital Pulau Pinang,1,2,4,8,1,0,0,0,0,0,16
+2016-07-30,Hospital Pulau Pinang,1,2,4,8,2,0,0,0,0,0,17
 2016-07-30,,0,0,0,0,0,0,0,0,0,0,0
 2016-07-30,,0,0,0,0,0,0,0,0,0,0,0
 2016-07-30,,0,0,0,0,0,0,0,0,0,0,0
@@ -108192,7 +108192,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2016-07-30,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2016-07-30,Pusat Darah Negara,37,25,24,13,12,9,8,2,0,0,130
 2016-07-31,Hospital Sultanah Nora Ismail,10,5,5,1,1,3,2,0,0,0,27
-2016-07-31,Hospital Sultanah Aminah,27,6,6,10,5,3,0,0,0,0,57
+2016-07-31,Hospital Sultanah Aminah,27,6,6,10,5,4,0,0,0,0,58
 2016-07-31,,0,0,0,0,0,0,0,0,0,0,0
 2016-07-31,Hospital Sultanah Bahiyah,64,6,5,3,1,2,1,0,0,0,82
 2016-07-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -108582,7 +108582,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2016-08-13,Hospital Umum Sarawak,4,3,1,3,1,1,0,1,0,0,14
 2016-08-13,Hospital Miri,3,3,1,0,0,1,0,0,0,0,8
 2016-08-13,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2016-08-13,Pusat Darah Negara,83,39,46,45,26,18,11,2,2,0,272
+2016-08-13,Pusat Darah Negara,83,39,46,46,26,18,11,2,2,0,273
 2016-08-14,Hospital Sultanah Nora Ismail,5,5,4,5,0,2,2,0,1,0,24
 2016-08-14,Hospital Sultanah Aminah,36,2,5,4,0,2,0,0,0,0,49
 2016-08-14,,0,0,0,0,0,0,0,0,0,0,0
@@ -117702,7 +117702,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2017-07-05,Hospital Raja Permaisuri Bainun,1,0,1,1,0,2,0,0,0,0,5
 2017-07-05,Hospital Taiping,1,0,1,0,0,0,0,0,0,0,2
 2017-07-05,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2017-07-05,Hospital Tengku Ampuan Rahimah,70,0,2,0,0,0,0,1,0,0,73
+2017-07-05,Hospital Tengku Ampuan Rahimah,71,0,2,0,0,0,0,1,0,0,74
 2017-07-05,Hospital Sultanah Nur Zahirah,9,0,0,0,0,0,0,0,0,0,9
 2017-07-05,Hospital Queen Elizabeth II,6,1,1,2,1,0,1,0,0,0,12
 2017-07-05,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -117990,7 +117990,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2017-07-15,Hospital Umum Sarawak,8,4,3,2,0,0,0,0,0,0,17
 2017-07-15,Hospital Miri,1,3,1,2,0,0,2,0,0,0,9
 2017-07-15,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2017-07-15,Pusat Darah Negara,41,28,14,20,8,1,2,7,1,0,122
+2017-07-15,Pusat Darah Negara,41,28,15,20,8,1,2,7,1,0,123
 2017-07-16,Hospital Sultanah Nora Ismail,1,0,0,0,0,1,0,0,0,0,2
 2017-07-16,Hospital Sultanah Aminah,18,8,5,7,9,4,0,0,0,0,51
 2017-07-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -119263,7 +119263,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2017-08-30,Hospital Tengku Ampuan Afzan,0,1,0,0,1,0,0,0,0,0,2
 2017-08-30,Hospital Sultan Haji Ahmad Shah,1,1,0,0,0,0,0,0,0,0,2
 2017-08-30,Hospital Seberang Jaya,11,6,5,7,2,0,0,0,0,0,31
-2017-08-30,Hospital Pulau Pinang,4,17,3,2,1,0,0,0,0,0,27
+2017-08-30,Hospital Pulau Pinang,4,18,3,2,1,0,0,0,0,0,28
 2017-08-30,,0,0,0,0,0,0,0,0,0,0,0
 2017-08-30,,0,0,0,0,0,0,0,0,0,0,0
 2017-08-30,,0,0,0,0,0,0,0,0,0,0,0
@@ -119655,7 +119655,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2017-09-13,Hospital Tengku Ampuan Afzan,10,0,0,0,0,0,0,0,0,0,10
 2017-09-13,Hospital Sultan Haji Ahmad Shah,3,1,1,2,2,1,1,0,0,0,11
 2017-09-13,Hospital Seberang Jaya,0,0,0,0,0,0,0,0,0,0,0
-2017-09-13,Hospital Pulau Pinang,5,13,16,17,11,0,1,0,0,0,63
+2017-09-13,Hospital Pulau Pinang,5,14,16,17,11,0,1,0,0,0,64
 2017-09-13,,0,0,0,0,0,0,0,0,0,0,0
 2017-09-13,,0,0,0,0,0,0,0,0,0,0,0
 2017-09-13,,0,0,0,0,0,0,0,0,0,0,0
@@ -120566,7 +120566,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2017-10-15,Hospital Umum Sarawak,12,14,1,2,3,0,0,0,0,0,32
 2017-10-15,Hospital Miri,3,1,1,2,1,0,0,0,0,0,8
 2017-10-15,Hospital Sibu,4,3,1,0,1,2,0,0,0,0,11
-2017-10-15,Pusat Darah Negara,47,25,22,29,28,15,13,6,1,0,186
+2017-10-15,Pusat Darah Negara,47,25,22,29,29,15,13,6,1,0,187
 2017-10-16,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2017-10-16,Hospital Sultanah Aminah,1,3,3,0,4,0,0,1,0,0,12
 2017-10-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -127607,7 +127607,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2018-06-24,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2018-06-24,Hospital Sultan Haji Ahmad Shah,1,1,1,0,0,0,1,0,0,0,4
 2018-06-24,Hospital Seberang Jaya,1,1,3,0,0,2,0,0,0,0,7
-2018-06-24,Hospital Pulau Pinang,5,4,5,3,7,2,1,3,0,0,30
+2018-06-24,Hospital Pulau Pinang,5,4,5,3,8,2,1,3,0,0,31
 2018-06-24,,0,0,0,0,0,0,0,0,0,0,0
 2018-06-24,,0,0,0,0,0,0,0,0,0,0,0
 2018-06-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -128202,7 +128202,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2018-07-15,Hospital Raja Permaisuri Bainun,10,5,7,5,2,3,6,1,0,0,39
 2018-07-15,Hospital Taiping,7,3,1,2,0,1,1,0,0,0,15
 2018-07-15,Hospital Seri Manjung,4,2,4,1,1,0,0,0,0,0,12
-2018-07-15,Hospital Tengku Ampuan Rahimah,35,26,21,25,12,8,5,2,0,0,134
+2018-07-15,Hospital Tengku Ampuan Rahimah,35,26,21,25,12,9,4,2,0,0,134
 2018-07-15,Hospital Sultanah Nur Zahirah,35,1,1,3,0,4,1,0,0,0,45
 2018-07-15,Hospital Queen Elizabeth II,1,2,0,3,2,2,1,1,0,0,12
 2018-07-15,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -129182,7 +129182,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2018-08-19,Hospital Raja Permaisuri Bainun,18,9,2,8,4,6,3,0,1,0,51
 2018-08-19,Hospital Taiping,28,18,8,6,2,8,1,1,0,0,72
 2018-08-19,Hospital Seri Manjung,2,2,0,1,0,1,1,0,0,0,7
-2018-08-19,Hospital Tengku Ampuan Rahimah,23,19,11,15,3,3,3,0,0,0,77
+2018-08-19,Hospital Tengku Ampuan Rahimah,24,19,11,15,3,3,3,0,0,0,78
 2018-08-19,Hospital Sultanah Nur Zahirah,0,0,1,1,0,0,0,0,0,0,2
 2018-08-19,Hospital Queen Elizabeth II,17,14,16,9,6,4,3,1,0,0,70
 2018-08-19,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -131626,7 +131626,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2018-11-14,Hospital Umum Sarawak,1,0,1,0,0,0,0,0,0,0,2
 2018-11-14,Hospital Miri,0,0,1,0,0,0,0,0,0,0,1
 2018-11-14,Hospital Sibu,0,2,0,0,0,0,0,0,0,0,2
-2018-11-14,Pusat Darah Negara,144,22,19,20,4,5,0,0,0,0,214
+2018-11-14,Pusat Darah Negara,144,22,19,21,4,5,0,0,0,0,215
 2018-11-15,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2018-11-15,Hospital Sultanah Aminah,9,6,3,1,1,1,1,0,0,0,22
 2018-11-15,,0,0,0,0,0,0,0,0,0,0,0
@@ -133502,7 +133502,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-01-20,Hospital Umum Sarawak,7,3,6,3,6,2,1,0,0,0,28
 2019-01-20,Hospital Miri,0,2,1,2,2,2,1,3,0,0,13
 2019-01-20,Hospital Sibu,9,0,0,1,0,2,3,0,0,0,15
-2019-01-20,Pusat Darah Negara,86,48,55,28,34,24,8,8,0,0,291
+2019-01-20,Pusat Darah Negara,86,49,55,28,34,24,8,8,0,0,292
 2019-01-21,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2019-01-21,Hospital Sultanah Aminah,12,10,8,12,5,5,3,1,0,0,56
 2019-01-21,,0,0,0,0,0,0,0,0,0,0,0
@@ -135251,7 +135251,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-03-24,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2019-03-24,Hospital Sultan Haji Ahmad Shah,1,2,3,1,0,0,0,1,0,0,8
 2019-03-24,Hospital Seberang Jaya,12,4,2,4,5,2,0,0,0,0,29
-2019-03-24,Hospital Pulau Pinang,2,8,1,2,1,2,2,0,0,0,18
+2019-03-24,Hospital Pulau Pinang,2,8,1,2,1,3,2,0,0,0,19
 2019-03-24,,0,0,0,0,0,0,0,0,0,0,0
 2019-03-24,,0,0,0,0,0,0,0,0,0,0,0
 2019-03-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -135546,7 +135546,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-04-03,Hospital Umum Sarawak,3,1,0,3,0,0,1,1,0,0,9
 2019-04-03,Hospital Miri,0,1,2,2,0,0,1,0,0,0,6
 2019-04-03,Hospital Sibu,1,0,0,0,0,0,0,0,0,0,1
-2019-04-03,Pusat Darah Negara,75,31,15,17,12,1,3,1,0,0,155
+2019-04-03,Pusat Darah Negara,76,31,15,17,12,1,3,1,0,0,156
 2019-04-04,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2019-04-04,Hospital Sultanah Aminah,6,2,2,2,2,2,1,0,0,0,17
 2019-04-04,,0,0,0,0,0,0,0,0,0,0,0
@@ -135910,7 +135910,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-04-16,Hospital Umum Sarawak,2,2,2,2,1,0,0,0,0,0,9
 2019-04-16,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2019-04-16,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2019-04-16,Pusat Darah Negara,107,42,36,19,10,7,6,5,0,0,232
+2019-04-16,Pusat Darah Negara,107,42,36,20,10,7,6,5,0,0,233
 2019-04-17,Hospital Sultanah Nora Ismail,4,3,0,0,0,0,0,0,0,0,7
 2019-04-17,Hospital Sultanah Aminah,11,18,8,10,10,2,1,1,0,0,61
 2019-04-17,,0,0,0,0,0,0,0,0,0,0,0
@@ -138580,7 +138580,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-07-21,Hospital Melaka,8,9,4,5,4,3,4,2,0,0,39
 2019-07-21,Hospital Tuanku Jaafar,0,1,0,1,2,3,4,0,0,0,11
 2019-07-21,,0,0,0,0,0,0,0,0,0,0,0
-2019-07-21,Hospital Tengku Ampuan Afzan,8,7,10,12,5,4,2,2,2,0,52
+2019-07-21,Hospital Tengku Ampuan Afzan,9,7,10,12,5,4,2,2,2,0,53
 2019-07-21,Hospital Sultan Haji Ahmad Shah,0,2,1,1,3,2,1,2,0,0,12
 2019-07-21,Hospital Seberang Jaya,12,5,10,11,6,1,3,2,0,0,50
 2019-07-21,Hospital Pulau Pinang,4,2,6,2,4,2,2,1,0,0,23
@@ -138982,7 +138982,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-08-04,Hospital Raja Permaisuri Bainun,4,5,6,1,4,0,1,0,0,0,21
 2019-08-04,Hospital Taiping,0,1,0,0,0,0,2,0,0,0,3
 2019-08-04,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2019-08-04,Hospital Tengku Ampuan Rahimah,7,6,4,2,5,4,0,2,0,0,30
+2019-08-04,Hospital Tengku Ampuan Rahimah,7,6,4,2,5,5,0,2,0,0,31
 2019-08-04,Hospital Sultanah Nur Zahirah,30,0,0,1,0,0,0,0,0,0,31
 2019-08-04,Hospital Queen Elizabeth II,10,3,2,2,3,0,3,0,0,0,23
 2019-08-04,Hospital Duchess Of Kent,10,10,9,8,14,16,10,6,0,0,83
@@ -139109,7 +139109,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-08-09,Hospital Sultanah Bahiyah,1,0,0,0,1,0,0,0,0,0,2
 2019-08-09,,0,0,0,0,0,0,0,0,0,0,0
 2019-08-09,Hospital Raja Perempuan Zainab II,5,1,0,0,1,0,0,0,0,0,7
-2019-08-09,Hospital Melaka,7,10,4,5,5,1,2,0,0,0,34
+2019-08-09,Hospital Melaka,7,11,4,5,5,1,2,0,0,0,35
 2019-08-09,Hospital Tuanku Jaafar,1,1,0,0,0,0,1,0,0,0,3
 2019-08-09,,0,0,0,0,0,0,0,0,0,0,0
 2019-08-09,Hospital Tengku Ampuan Afzan,1,0,0,0,0,0,0,0,0,0,1
@@ -139377,7 +139377,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-08-18,Hospital Tengku Ampuan Rahimah,4,2,6,4,3,2,1,3,0,0,25
 2019-08-18,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2019-08-18,Hospital Queen Elizabeth II,11,8,6,3,3,1,1,1,0,0,34
-2019-08-18,Hospital Duchess Of Kent,4,10,10,12,8,6,13,10,2,0,75
+2019-08-18,Hospital Duchess Of Kent,4,11,10,12,8,6,13,10,2,0,76
 2019-08-18,Hospital Tawau,0,0,0,4,3,0,1,1,0,0,9
 2019-08-18,Hospital Umum Sarawak,5,5,3,8,2,2,0,0,0,0,25
 2019-08-18,Hospital Miri,1,1,3,3,1,0,0,0,0,0,9
@@ -140179,7 +140179,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-09-16,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2019-09-16,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2019-09-16,Hospital Seberang Jaya,6,2,5,3,3,4,0,1,0,0,24
-2019-09-16,Hospital Pulau Pinang,17,7,9,5,9,3,4,1,0,0,55
+2019-09-16,Hospital Pulau Pinang,17,7,9,5,9,3,5,1,0,0,56
 2019-09-16,,0,0,0,0,0,0,0,0,0,0,0
 2019-09-16,,0,0,0,0,0,0,0,0,0,0,0
 2019-09-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -141365,7 +141365,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-10-28,Hospital Tengku Ampuan Rahimah,4,0,0,1,2,3,0,0,0,0,10
 2019-10-28,Hospital Sultanah Nur Zahirah,2,0,0,1,1,1,0,0,0,0,5
 2019-10-28,Hospital Queen Elizabeth II,2,1,1,0,0,1,0,0,0,0,5
-2019-10-28,Hospital Duchess Of Kent,6,6,10,17,11,21,17,17,1,0,106
+2019-10-28,Hospital Duchess Of Kent,6,6,10,18,11,21,17,17,1,0,107
 2019-10-28,Hospital Tawau,1,1,1,0,3,1,0,0,0,0,7
 2019-10-28,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2019-10-28,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
@@ -142895,7 +142895,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-12-22,Hospital Tengku Ampuan Afzan,7,3,6,3,2,3,1,3,0,0,28
 2019-12-22,Hospital Sultan Haji Ahmad Shah,7,1,0,3,3,0,1,0,0,0,15
 2019-12-22,Hospital Seberang Jaya,1,0,2,2,2,0,1,1,0,0,9
-2019-12-22,Hospital Pulau Pinang,1,1,2,3,4,6,3,2,0,0,22
+2019-12-22,Hospital Pulau Pinang,1,1,2,3,5,6,3,2,0,0,23
 2019-12-22,,0,0,0,0,0,0,0,0,0,0,0
 2019-12-22,,0,0,0,0,0,0,0,0,0,0,0
 2019-12-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -143414,7 +143414,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-01-09,Hospital Umum Sarawak,0,1,0,1,0,0,2,1,0,0,5
 2020-01-09,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2020-01-09,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2020-01-09,Pusat Darah Negara,15,9,9,12,24,7,3,1,0,0,80
+2020-01-09,Pusat Darah Negara,15,9,9,12,25,7,3,1,0,0,81
 2020-01-10,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2020-01-10,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2020-01-10,,0,0,0,0,0,0,0,0,0,0,0
@@ -143694,7 +143694,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-01-19,Hospital Umum Sarawak,9,0,6,2,1,2,0,0,0,0,20
 2020-01-19,Hospital Miri,3,3,3,1,3,2,2,1,0,0,18
 2020-01-19,Hospital Sibu,1,2,1,0,0,1,0,0,0,0,5
-2020-01-19,Pusat Darah Negara,36,22,16,17,12,16,8,1,0,0,128
+2020-01-19,Pusat Darah Negara,36,22,17,17,12,16,8,1,0,0,129
 2020-01-20,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2020-01-20,Hospital Sultanah Aminah,71,7,0,2,1,1,0,0,0,0,82
 2020-01-20,,0,0,0,0,0,0,0,0,0,0,0
@@ -144198,7 +144198,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-02-06,Hospital Umum Sarawak,3,1,1,2,1,2,0,0,0,0,10
 2020-02-06,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2020-02-06,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2020-02-06,Pusat Darah Negara,53,26,13,6,7,0,4,0,0,0,109
+2020-02-06,Pusat Darah Negara,53,26,14,6,7,0,4,0,0,0,110
 2020-02-07,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2020-02-07,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2020-02-07,,0,0,0,0,0,0,0,0,0,0,0
@@ -145414,7 +145414,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-03-21,,0,0,0,0,0,0,0,0,0,0,0
 2020-03-21,Hospital Tengku Ampuan Afzan,34,2,0,1,1,0,0,0,0,0,38
 2020-03-21,Hospital Sultan Haji Ahmad Shah,0,1,0,0,1,0,1,0,0,0,3
-2020-03-21,Hospital Seberang Jaya,4,1,1,2,0,1,1,0,0,0,10
+2020-03-21,Hospital Seberang Jaya,4,1,1,2,0,2,1,0,0,0,11
 2020-03-21,Hospital Pulau Pinang,2,1,3,0,1,0,0,0,0,0,7
 2020-03-21,,0,0,0,0,0,0,0,0,0,0,0
 2020-03-21,,0,0,0,0,0,0,0,0,0,0,0
@@ -147754,7 +147754,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-06-12,Hospital Umum Sarawak,0,0,0,0,0,1,0,0,0,0,1
 2020-06-12,Hospital Miri,0,0,1,0,0,0,0,0,0,0,1
 2020-06-12,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2020-06-12,Pusat Darah Negara,23,15,12,9,8,5,4,2,0,0,78
+2020-06-12,Pusat Darah Negara,23,16,12,9,8,5,4,2,0,0,79
 2020-06-13,Hospital Sultanah Nora Ismail,25,11,4,12,13,8,10,5,2,0,90
 2020-06-13,Hospital Sultanah Aminah,9,3,0,3,0,1,0,1,0,0,17
 2020-06-13,,0,0,0,0,0,0,0,0,0,0,0
@@ -152503,7 +152503,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-11-29,,0,0,0,0,0,0,0,0,0,0,0
 2020-11-29,,0,0,0,0,0,0,0,0,0,0,0
 2020-11-29,,0,0,0,0,0,0,0,0,0,0,0
-2020-11-29,Hospital Raja Permaisuri Bainun,11,8,7,1,2,4,1,1,0,0,35
+2020-11-29,Hospital Raja Permaisuri Bainun,11,8,7,1,3,4,1,1,0,0,36
 2020-11-29,Hospital Taiping,5,3,1,3,0,1,0,0,0,0,13
 2020-11-29,Hospital Seri Manjung,7,3,2,2,1,3,0,0,0,0,18
 2020-11-29,Hospital Tengku Ampuan Rahimah,12,9,7,8,3,0,0,0,0,0,39
@@ -152898,7 +152898,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-12-13,Hospital Raja Permaisuri Bainun,7,3,2,4,0,1,2,1,0,0,20
 2020-12-13,Hospital Taiping,2,1,1,1,2,1,0,1,0,0,9
 2020-12-13,Hospital Seri Manjung,1,3,1,1,0,2,2,0,0,0,10
-2020-12-13,Hospital Tengku Ampuan Rahimah,2,1,2,6,4,2,1,0,0,0,18
+2020-12-13,Hospital Tengku Ampuan Rahimah,2,1,3,6,4,2,1,0,0,0,19
 2020-12-13,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2020-12-13,Hospital Queen Elizabeth II,2,1,1,2,2,3,1,1,0,0,13
 2020-12-13,Hospital Duchess Of Kent,0,1,1,2,1,0,0,0,1,0,6
@@ -153231,7 +153231,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-12-25,,0,0,0,0,0,0,0,0,0,0,0
 2020-12-25,,0,0,0,0,0,0,0,0,0,0,0
 2020-12-25,,0,0,0,0,0,0,0,0,0,0,0
-2020-12-25,Hospital Raja Permaisuri Bainun,9,2,0,5,3,0,2,1,0,0,22
+2020-12-25,Hospital Raja Permaisuri Bainun,9,2,0,6,3,0,2,1,0,0,23
 2020-12-25,Hospital Taiping,5,1,1,0,0,0,0,0,0,0,7
 2020-12-25,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
 2020-12-25,Hospital Tengku Ampuan Rahimah,5,2,2,3,0,0,0,0,0,0,12
@@ -153283,7 +153283,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-12-27,Hospital Tengku Ampuan Afzan,4,2,3,3,2,1,1,0,0,0,16
 2020-12-27,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2020-12-27,Hospital Seberang Jaya,3,3,1,3,0,3,2,1,0,0,16
-2020-12-27,Hospital Pulau Pinang,4,1,3,7,3,3,1,0,0,0,22
+2020-12-27,Hospital Pulau Pinang,4,1,3,7,3,4,1,0,0,0,23
 2020-12-27,,0,0,0,0,0,0,0,0,0,0,0
 2020-12-27,,0,0,0,0,0,0,0,0,0,0,0
 2020-12-27,,0,0,0,0,0,0,0,0,0,0,0
@@ -153647,7 +153647,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-01-09,Hospital Tengku Ampuan Afzan,3,6,1,2,0,1,1,1,0,0,15
 2021-01-09,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2021-01-09,Hospital Seberang Jaya,12,7,5,4,4,3,3,2,0,0,40
-2021-01-09,Hospital Pulau Pinang,2,0,4,2,4,2,4,2,0,0,20
+2021-01-09,Hospital Pulau Pinang,2,0,4,2,4,2,5,2,0,0,21
 2021-01-09,,0,0,0,0,0,0,0,0,0,0,0
 2021-01-09,,0,0,0,0,0,0,0,0,0,0,0
 2021-01-09,,0,0,0,0,0,0,0,0,0,0,0
@@ -154082,7 +154082,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-01-24,Hospital Umum Sarawak,10,3,2,1,2,3,0,0,0,0,21
 2021-01-24,Hospital Miri,0,0,0,2,0,0,0,0,0,0,2
 2021-01-24,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2021-01-24,Pusat Darah Negara,57,61,58,22,20,14,8,1,0,0,241
+2021-01-24,Pusat Darah Negara,57,61,58,22,20,15,8,1,0,0,242
 2021-01-25,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2021-01-25,Hospital Sultanah Aminah,9,8,5,3,3,1,0,0,0,0,29
 2021-01-25,,0,0,0,0,0,0,0,0,0,0,0
@@ -154262,8 +154262,8 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-01-31,,0,0,0,0,0,0,0,0,0,0,0
 2021-01-31,Hospital Tengku Ampuan Afzan,0,2,2,3,1,1,0,0,0,0,9
 2021-01-31,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
-2021-01-31,Hospital Seberang Jaya,6,3,3,3,2,4,2,0,0,0,23
-2021-01-31,Hospital Pulau Pinang,3,5,6,4,3,5,2,2,0,0,30
+2021-01-31,Hospital Seberang Jaya,6,3,3,4,2,4,2,0,0,0,24
+2021-01-31,Hospital Pulau Pinang,3,5,7,4,3,5,2,2,0,0,31
 2021-01-31,,0,0,0,0,0,0,0,0,0,0,0
 2021-01-31,,0,0,0,0,0,0,0,0,0,0,0
 2021-01-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -154866,7 +154866,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-02-21,Hospital Umum Sarawak,4,3,1,1,5,0,1,1,0,0,16
 2021-02-21,Hospital Miri,2,0,0,2,1,0,2,0,0,0,7
 2021-02-21,Hospital Sibu,0,2,0,1,1,0,0,0,0,0,4
-2021-02-21,Pusat Darah Negara,24,24,20,18,12,7,5,2,0,0,112
+2021-02-21,Pusat Darah Negara,24,24,20,18,12,8,5,2,0,0,113
 2021-02-22,Hospital Sultanah Nora Ismail,2,0,0,0,0,2,0,0,0,0,4
 2021-02-22,Hospital Sultanah Aminah,1,3,0,2,1,1,0,0,1,0,9
 2021-02-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -155614,7 +155614,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-03-20,Hospital Raja Permaisuri Bainun,3,2,1,1,1,0,0,2,0,0,10
 2021-03-20,Hospital Taiping,3,0,3,0,1,1,0,1,0,0,9
 2021-03-20,Hospital Seri Manjung,4,1,2,1,2,1,1,1,0,0,13
-2021-03-20,Hospital Tengku Ampuan Rahimah,6,0,1,1,0,1,0,0,0,0,9
+2021-03-20,Hospital Tengku Ampuan Rahimah,6,0,1,1,1,1,0,0,0,0,10
 2021-03-20,Hospital Sultanah Nur Zahirah,0,1,2,1,2,0,0,0,0,0,6
 2021-03-20,Hospital Queen Elizabeth II,7,7,9,6,5,3,2,2,0,0,41
 2021-03-20,Hospital Duchess Of Kent,2,0,0,0,0,2,1,1,1,0,7
@@ -158170,7 +158170,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-06-19,Hospital Umum Sarawak,5,4,1,3,0,1,0,0,0,0,14
 2021-06-19,Hospital Miri,1,0,0,0,2,0,2,0,0,0,5
 2021-06-19,Hospital Sibu,1,0,1,0,0,0,0,0,0,0,2
-2021-06-19,Pusat Darah Negara,41,33,18,17,16,4,4,2,0,0,135
+2021-06-19,Pusat Darah Negara,42,33,18,17,16,4,4,2,0,0,136
 2021-06-20,Hospital Sultanah Nora Ismail,5,4,5,2,4,0,3,1,0,0,24
 2021-06-20,Hospital Sultanah Aminah,10,20,11,3,8,4,3,1,0,0,60
 2021-06-20,,0,0,0,0,0,0,0,0,0,0,0
@@ -158363,7 +158363,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-06-26,Hospital Queen Elizabeth II,3,3,4,2,0,1,1,0,0,0,14
 2021-06-26,Hospital Duchess Of Kent,2,0,1,0,1,0,0,0,0,0,4
 2021-06-26,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
-2021-06-26,Hospital Umum Sarawak,3,3,2,1,1,0,0,0,0,0,10
+2021-06-26,Hospital Umum Sarawak,3,3,3,1,1,0,0,0,0,0,11
 2021-06-26,Hospital Miri,1,2,2,2,0,0,0,0,0,0,7
 2021-06-26,Hospital Sibu,3,2,1,4,0,0,0,0,0,0,10
 2021-06-26,Pusat Darah Negara,45,33,31,12,11,6,4,0,0,0,142
@@ -160542,7 +160542,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-09-12,Hospital Raja Permaisuri Bainun,10,2,1,4,3,1,2,1,0,0,24
 2021-09-12,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2021-09-12,Hospital Seri Manjung,3,1,1,5,0,0,0,0,0,0,10
-2021-09-12,Hospital Tengku Ampuan Rahimah,8,2,2,2,1,0,1,0,0,0,16
+2021-09-12,Hospital Tengku Ampuan Rahimah,8,2,2,3,1,0,1,0,0,0,17
 2021-09-12,Hospital Sultanah Nur Zahirah,3,1,0,0,0,0,0,0,0,0,4
 2021-09-12,Hospital Queen Elizabeth II,3,0,1,1,1,0,0,1,0,0,7
 2021-09-12,Hospital Duchess Of Kent,1,0,2,3,1,1,1,0,0,0,9
@@ -161110,7 +161110,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-10-02,Hospital Umum Sarawak,2,1,2,1,0,1,0,1,0,0,8
 2021-10-02,Hospital Miri,0,0,2,1,0,0,0,0,0,0,3
 2021-10-02,Hospital Sibu,0,0,1,0,0,0,0,0,0,0,1
-2021-10-02,Pusat Darah Negara,30,20,14,12,4,2,1,1,0,0,84
+2021-10-02,Pusat Darah Negara,30,21,14,12,4,2,1,1,0,0,85
 2021-10-03,Hospital Sultanah Nora Ismail,6,1,5,1,0,1,0,0,0,0,14
 2021-10-03,Hospital Sultanah Aminah,2,5,4,2,2,2,0,0,0,0,17
 2021-10-03,,0,0,0,0,0,0,0,0,0,0,0
@@ -161305,7 +161305,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-10-09,Hospital Tawau,0,1,0,0,0,0,0,0,0,0,1
 2021-10-09,Hospital Umum Sarawak,6,6,3,1,1,1,1,1,0,0,20
 2021-10-09,Hospital Miri,2,1,0,2,0,0,0,0,0,0,5
-2021-10-09,Hospital Sibu,1,3,0,2,1,0,1,0,0,0,8
+2021-10-09,Hospital Sibu,1,3,0,2,1,1,1,0,0,0,9
 2021-10-09,Pusat Darah Negara,40,32,17,23,12,5,4,2,0,0,135
 2021-10-10,Hospital Sultanah Nora Ismail,2,1,1,2,1,0,1,0,0,0,8
 2021-10-10,Hospital Sultanah Aminah,17,11,5,3,4,4,1,0,0,0,45
@@ -163090,7 +163090,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2021-12-12,Hospital Raja Permaisuri Bainun,5,4,5,3,0,3,0,0,0,0,20
 2021-12-12,Hospital Taiping,1,0,0,0,0,0,0,0,0,0,1
 2021-12-12,Hospital Seri Manjung,5,0,1,0,0,0,1,0,0,0,7
-2021-12-12,Hospital Tengku Ampuan Rahimah,7,2,3,6,5,2,3,1,0,0,29
+2021-12-12,Hospital Tengku Ampuan Rahimah,7,2,4,6,5,2,3,1,0,0,30
 2021-12-12,Hospital Sultanah Nur Zahirah,0,1,0,1,0,1,0,0,0,0,3
 2021-12-12,Hospital Queen Elizabeth II,7,3,3,1,4,3,1,1,0,0,23
 2021-12-12,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -166626,7 +166626,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-04-17,Hospital Umum Sarawak,13,2,4,2,1,3,0,0,0,0,25
 2022-04-17,Hospital Miri,0,0,1,0,1,0,0,0,0,0,2
 2022-04-17,Hospital Sibu,2,0,2,1,2,1,2,2,0,0,12
-2022-04-17,Pusat Darah Negara,45,34,15,15,12,14,8,9,1,0,153
+2022-04-17,Pusat Darah Negara,45,34,15,15,13,14,8,9,1,0,154
 2022-04-18,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2022-04-18,Hospital Sultanah Aminah,2,1,2,2,0,1,0,0,0,0,8
 2022-04-18,,0,0,0,0,0,0,0,0,0,0,0
@@ -166975,7 +166975,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-04-30,Hospital Tengku Ampuan Afzan,2,0,0,1,0,0,0,0,0,0,3
 2022-04-30,Hospital Sultan Haji Ahmad Shah,1,0,0,1,0,0,0,0,0,0,2
 2022-04-30,Hospital Seberang Jaya,1,0,1,0,0,0,0,0,0,0,2
-2022-04-30,Hospital Pulau Pinang,3,5,7,3,3,1,0,1,0,0,23
+2022-04-30,Hospital Pulau Pinang,3,5,7,3,4,1,0,1,0,0,24
 2022-04-30,,0,0,0,0,0,0,0,0,0,0,0
 2022-04-30,,0,0,0,0,0,0,0,0,0,0,0
 2022-04-30,,0,0,0,0,0,0,0,0,0,0,0
@@ -167970,7 +167970,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-06-04,Hospital Umum Sarawak,37,29,18,2,0,0,1,0,0,0,87
 2022-06-04,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2022-06-04,Hospital Sibu,2,1,3,1,0,1,0,1,0,0,9
-2022-06-04,Pusat Darah Negara,68,15,13,11,11,12,5,3,0,0,138
+2022-06-04,Pusat Darah Negara,68,15,13,12,11,12,5,3,0,0,139
 2022-06-05,Hospital Sultanah Nora Ismail,4,2,2,1,1,0,0,2,0,0,12
 2022-06-05,Hospital Sultanah Aminah,14,13,9,4,5,2,2,2,0,0,51
 2022-06-05,,0,0,0,0,0,0,0,0,0,0,0
@@ -168375,7 +168375,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-06-19,Hospital Tengku Ampuan Afzan,2,2,1,0,1,1,0,0,0,0,7
 2022-06-19,Hospital Sultan Haji Ahmad Shah,3,1,0,0,1,0,0,0,0,0,5
 2022-06-19,Hospital Seberang Jaya,10,9,9,0,5,5,0,0,0,0,38
-2022-06-19,Hospital Pulau Pinang,9,5,3,3,3,3,3,2,0,0,31
+2022-06-19,Hospital Pulau Pinang,9,5,4,3,3,3,3,2,0,0,32
 2022-06-19,,0,0,0,0,0,0,0,0,0,0,0
 2022-06-19,,0,0,0,0,0,0,0,0,0,0,0
 2022-06-19,,0,0,0,0,0,0,0,0,0,0,0
@@ -168571,7 +168571,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-06-26,Hospital Tengku Ampuan Afzan,3,1,2,1,2,1,0,0,0,0,10
 2022-06-26,Hospital Sultan Haji Ahmad Shah,2,0,1,0,4,0,0,2,0,0,9
 2022-06-26,Hospital Seberang Jaya,3,5,1,0,2,2,2,2,0,0,17
-2022-06-26,Hospital Pulau Pinang,4,4,3,3,6,3,3,0,0,0,26
+2022-06-26,Hospital Pulau Pinang,4,4,3,4,6,3,3,0,0,0,27
 2022-06-26,,0,0,0,0,0,0,0,0,0,0,0
 2022-06-26,,0,0,0,0,0,0,0,0,0,0,0
 2022-06-26,,0,0,0,0,0,0,0,0,0,0,0
@@ -169006,7 +169006,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-07-11,Hospital Umum Sarawak,2,4,1,1,2,0,0,0,0,0,10
 2022-07-11,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2022-07-11,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
-2022-07-11,Pusat Darah Negara,11,11,9,8,7,8,3,3,0,0,60
+2022-07-11,Pusat Darah Negara,11,11,9,8,7,9,3,3,0,0,61
 2022-07-12,Hospital Sultanah Nora Ismail,2,1,0,0,1,2,1,0,0,0,7
 2022-07-12,Hospital Sultanah Aminah,8,16,5,0,3,2,2,1,0,0,37
 2022-07-12,,0,0,0,0,0,0,0,0,0,0,0
@@ -169342,7 +169342,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-07-23,Hospital Umum Sarawak,0,0,0,0,0,0,0,0,0,0,0
 2022-07-23,Hospital Miri,0,5,4,3,3,0,1,0,0,0,16
 2022-07-23,Hospital Sibu,2,0,1,0,0,0,0,0,0,0,3
-2022-07-23,Pusat Darah Negara,239,30,19,15,24,38,16,7,0,0,388
+2022-07-23,Pusat Darah Negara,239,30,19,15,25,38,16,7,0,0,389
 2022-07-24,Hospital Sultanah Nora Ismail,4,3,0,1,2,0,1,0,0,0,11
 2022-07-24,Hospital Sultanah Aminah,8,2,0,3,4,1,4,1,0,0,23
 2022-07-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -171887,7 +171887,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-10-22,Hospital Queen Elizabeth II,12,3,6,5,6,0,1,1,0,0,34
 2022-10-22,Hospital Duchess Of Kent,1,2,0,3,5,1,0,0,0,0,12
 2022-10-22,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
-2022-10-22,Hospital Umum Sarawak,3,3,0,5,1,2,2,1,0,0,17
+2022-10-22,Hospital Umum Sarawak,3,3,0,5,1,3,2,1,0,0,18
 2022-10-22,Hospital Miri,0,2,1,4,1,0,1,1,0,0,10
 2022-10-22,Hospital Sibu,3,2,2,5,2,0,3,2,1,0,20
 2022-10-22,Pusat Darah Negara,38,27,25,9,15,6,8,2,0,0,130
@@ -171902,7 +171902,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-10-23,,0,0,0,0,0,0,0,0,0,0,0
 2022-10-23,Hospital Tengku Ampuan Afzan,2,2,1,1,5,1,1,0,0,0,13
 2022-10-23,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
-2022-10-23,Hospital Seberang Jaya,3,1,3,5,7,0,1,0,0,0,20
+2022-10-23,Hospital Seberang Jaya,3,1,3,5,6,1,1,0,0,0,20
 2022-10-23,Hospital Pulau Pinang,3,5,4,5,1,0,0,0,0,0,18
 2022-10-23,,0,0,0,0,0,0,0,0,0,0,0
 2022-10-23,,0,0,0,0,0,0,0,0,0,0,0
@@ -172506,7 +172506,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-11-13,Hospital Umum Sarawak,1,2,3,2,3,0,1,0,0,0,12
 2022-11-13,Hospital Miri,2,2,0,3,1,3,0,0,0,0,11
 2022-11-13,Hospital Sibu,2,1,0,3,0,1,0,0,0,0,7
-2022-11-13,Pusat Darah Negara,38,21,20,16,29,14,11,6,0,0,155
+2022-11-13,Pusat Darah Negara,38,21,20,17,29,14,11,6,0,0,156
 2022-11-14,Hospital Sultanah Nora Ismail,22,3,1,3,2,0,0,0,0,0,31
 2022-11-14,Hospital Sultanah Aminah,7,6,2,2,1,2,1,1,0,0,22
 2022-11-14,,0,0,0,0,0,0,0,0,0,0,0
@@ -173079,7 +173079,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-12-04,Hospital Tengku Ampuan Afzan,0,0,0,0,0,0,0,0,0,0,0
 2022-12-04,Hospital Sultan Haji Ahmad Shah,3,3,3,0,1,4,1,1,1,0,17
 2022-12-04,Hospital Seberang Jaya,4,3,0,0,1,0,0,0,0,0,8
-2022-12-04,Hospital Pulau Pinang,1,1,0,1,0,3,1,0,0,0,7
+2022-12-04,Hospital Pulau Pinang,1,1,0,2,0,3,1,0,0,0,8
 2022-12-04,,0,0,0,0,0,0,0,0,0,0,0
 2022-12-04,,0,0,0,0,0,0,0,0,0,0,0
 2022-12-04,,0,0,0,0,0,0,0,0,0,0,0
@@ -173290,7 +173290,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2022-12-11,Hospital Umum Sarawak,1,2,0,2,1,0,0,0,0,0,6
 2022-12-11,Hospital Miri,0,0,0,1,2,0,1,0,0,0,4
 2022-12-11,Hospital Sibu,0,0,3,2,2,0,1,0,0,0,8
-2022-12-11,Pusat Darah Negara,32,20,12,16,15,12,5,6,0,0,118
+2022-12-11,Pusat Darah Negara,32,20,12,16,15,13,5,6,0,0,119
 2022-12-12,Hospital Sultanah Nora Ismail,3,2,1,0,0,0,0,0,0,0,6
 2022-12-12,Hospital Sultanah Aminah,6,2,4,1,3,0,0,0,0,0,16
 2022-12-12,,0,0,0,0,0,0,0,0,0,0,0
@@ -175144,7 +175144,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-02-16,,0,0,0,0,0,0,0,0,0,0,0
 2023-02-16,Hospital Sultanah Bahiyah,7,0,1,1,0,0,1,0,0,0,10
 2023-02-16,,0,0,0,0,0,0,0,0,0,0,0
-2023-02-16,Hospital Raja Perempuan Zainab II,3,2,1,0,0,1,0,0,0,0,7
+2023-02-16,Hospital Raja Perempuan Zainab II,3,3,1,0,0,1,0,0,0,0,8
 2023-02-16,Hospital Melaka,10,5,4,3,1,2,3,0,0,0,28
 2023-02-16,Hospital Tuanku Jaafar,89,2,0,1,0,2,2,0,0,0,96
 2023-02-16,,0,0,0,0,0,0,0,0,0,0,0
@@ -175784,7 +175784,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-03-10,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2023-03-10,Pusat Darah Negara,10,6,7,9,8,2,0,0,0,0,42
 2023-03-11,Hospital Sultanah Nora Ismail,5,6,5,3,1,0,1,0,0,0,21
-2023-03-11,Hospital Sultanah Aminah,7,1,7,3,7,2,5,0,0,0,32
+2023-03-11,Hospital Sultanah Aminah,7,1,7,3,8,2,5,0,0,0,33
 2023-03-11,,0,0,0,0,0,0,0,0,0,0,0
 2023-03-11,Hospital Sultanah Bahiyah,1,2,1,0,1,0,0,0,0,0,5
 2023-03-11,,0,0,0,0,0,0,0,0,0,0,0
@@ -175830,7 +175830,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-03-12,Hospital Raja Permaisuri Bainun,5,3,4,2,3,4,5,3,0,0,29
 2023-03-12,Hospital Taiping,1,0,0,2,1,1,1,0,0,0,6
 2023-03-12,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2023-03-12,Hospital Tengku Ampuan Rahimah,4,6,6,8,3,3,2,2,0,0,34
+2023-03-12,Hospital Tengku Ampuan Rahimah,4,6,6,8,3,3,3,2,0,0,35
 2023-03-12,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2023-03-12,Hospital Queen Elizabeth II,6,7,5,5,3,3,2,0,0,0,31
 2023-03-12,Hospital Duchess Of Kent,1,0,1,1,0,1,1,0,0,0,5
@@ -177100,7 +177100,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-04-26,Hospital Sibu,0,1,0,0,0,0,0,0,0,0,1
 2023-04-26,Pusat Darah Negara,13,6,8,4,1,3,1,0,0,0,36
 2023-04-27,Hospital Sultanah Nora Ismail,0,1,0,0,1,0,0,0,0,0,2
-2023-04-27,Hospital Sultanah Aminah,5,1,0,1,3,2,0,0,0,0,12
+2023-04-27,Hospital Sultanah Aminah,5,1,0,1,3,2,1,0,0,0,13
 2023-04-27,,0,0,0,0,0,0,0,0,0,0,0
 2023-04-27,Hospital Sultanah Bahiyah,5,1,2,0,0,0,0,0,0,0,8
 2023-04-27,,0,0,0,0,0,0,0,0,0,0,0
@@ -177602,7 +177602,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-05-14,Hospital Umum Sarawak,2,1,2,4,0,0,2,0,0,0,11
 2023-05-14,Hospital Miri,1,0,0,0,3,1,0,0,0,0,5
 2023-05-14,Hospital Sibu,1,1,1,0,1,1,2,0,0,0,7
-2023-05-14,Pusat Darah Negara,25,16,13,12,13,11,8,2,0,0,100
+2023-05-14,Pusat Darah Negara,25,16,13,12,13,12,8,2,0,0,101
 2023-05-15,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,0,0,0,0,1
 2023-05-15,Hospital Sultanah Aminah,4,1,2,0,2,0,1,0,0,0,10
 2023-05-15,,0,0,0,0,0,0,0,0,0,0,0
@@ -178763,7 +178763,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-06-25,Hospital Tengku Ampuan Afzan,4,4,1,2,1,2,0,0,0,0,14
 2023-06-25,Hospital Sultan Haji Ahmad Shah,1,0,0,0,1,1,1,0,0,0,4
 2023-06-25,Hospital Seberang Jaya,6,1,2,2,1,0,0,0,0,0,12
-2023-06-25,Hospital Pulau Pinang,5,3,2,2,1,2,2,0,0,0,17
+2023-06-25,Hospital Pulau Pinang,5,3,2,2,1,3,2,0,0,0,18
 2023-06-25,,0,0,0,0,0,0,0,0,0,0,0
 2023-06-25,,0,0,0,0,0,0,0,0,0,0,0
 2023-06-25,,0,0,0,0,0,0,0,0,0,0,0
@@ -178963,7 +178963,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-07-02,,0,0,0,0,0,0,0,0,0,0,0
 2023-07-02,,0,0,0,0,0,0,0,0,0,0,0
 2023-07-02,,0,0,0,0,0,0,0,0,0,0,0
-2023-07-02,Hospital Raja Permaisuri Bainun,7,3,7,7,2,4,1,1,0,0,32
+2023-07-02,Hospital Raja Permaisuri Bainun,7,3,7,7,2,5,1,1,0,0,33
 2023-07-02,Hospital Taiping,0,1,2,2,0,0,0,0,0,0,5
 2023-07-02,Hospital Seri Manjung,0,0,0,0,0,1,0,0,0,0,1
 2023-07-02,Hospital Tengku Ampuan Rahimah,8,5,3,3,4,2,1,3,0,0,29
@@ -179709,7 +179709,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-07-29,Hospital Sultanah Bahiyah,3,0,0,1,0,0,0,0,0,0,4
 2023-07-29,,0,0,0,0,0,0,0,0,0,0,0
 2023-07-29,Hospital Raja Perempuan Zainab II,0,0,0,0,0,0,0,0,0,0,0
-2023-07-29,Hospital Melaka,4,5,1,6,3,0,1,0,0,0,20
+2023-07-29,Hospital Melaka,4,5,1,6,5,0,1,0,0,0,22
 2023-07-29,Hospital Tuanku Jaafar,0,0,0,0,0,0,0,0,0,0,0
 2023-07-29,,0,0,0,0,0,0,0,0,0,0,0
 2023-07-29,Hospital Tengku Ampuan Afzan,4,1,3,1,0,0,0,0,0,0,9
@@ -181122,7 +181122,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-09-17,Hospital Raja Permaisuri Bainun,2,1,3,1,3,3,0,1,0,0,14
 2023-09-17,Hospital Taiping,1,0,0,1,1,0,0,0,0,0,3
 2023-09-17,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2023-09-17,Hospital Tengku Ampuan Rahimah,14,7,3,6,5,6,4,1,0,0,46
+2023-09-17,Hospital Tengku Ampuan Rahimah,14,7,3,6,5,7,4,1,0,0,47
 2023-09-17,Hospital Sultanah Nur Zahirah,1,0,1,0,1,0,0,0,0,0,3
 2023-09-17,Hospital Queen Elizabeth II,6,12,7,6,8,1,1,0,0,0,41
 2023-09-17,Hospital Duchess Of Kent,4,8,9,5,3,6,4,4,1,0,44
@@ -181299,7 +181299,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-09-23,Hospital Miri,1,1,0,1,0,0,0,0,0,0,3
 2023-09-23,Hospital Sibu,2,0,1,0,0,0,0,0,0,0,3
 2023-09-23,Pusat Darah Negara,30,26,13,12,7,11,9,1,0,0,109
-2023-09-24,Hospital Sultanah Nora Ismail,1,2,2,3,0,1,2,1,0,0,12
+2023-09-24,Hospital Sultanah Nora Ismail,1,2,2,3,0,1,3,1,0,0,13
 2023-09-24,Hospital Sultanah Aminah,6,1,5,4,2,7,0,1,0,0,26
 2023-09-24,,0,0,0,0,0,0,0,0,0,0,0
 2023-09-24,Hospital Sultanah Bahiyah,2,1,1,0,0,0,0,0,0,0,4
@@ -183747,7 +183747,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-12-20,Hospital Tengku Ampuan Afzan,31,0,1,0,2,1,0,0,0,0,35
 2023-12-20,Hospital Sultan Haji Ahmad Shah,0,1,0,0,0,0,0,0,0,0,1
 2023-12-20,Hospital Seberang Jaya,2,1,0,1,2,0,2,0,0,0,8
-2023-12-20,Hospital Pulau Pinang,7,5,4,3,1,2,3,0,0,0,25
+2023-12-20,Hospital Pulau Pinang,7,5,4,3,1,3,3,0,0,0,26
 2023-12-20,,0,0,0,0,0,0,0,0,0,0,0
 2023-12-20,,0,0,0,0,0,0,0,0,0,0,0
 2023-12-20,,0,0,0,0,0,0,0,0,0,0,0
@@ -183847,7 +183847,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-12-23,Hospital Miri,3,0,0,2,1,1,1,0,0,0,8
 2023-12-23,Hospital Sibu,1,1,4,8,6,5,4,2,0,0,31
 2023-12-23,Pusat Darah Negara,17,12,10,7,5,2,0,1,0,0,54
-2023-12-24,Hospital Sultanah Nora Ismail,0,1,1,1,0,0,1,1,0,0,5
+2023-12-24,Hospital Sultanah Nora Ismail,0,1,1,1,0,0,1,2,0,0,6
 2023-12-24,Hospital Sultanah Aminah,8,0,3,2,0,1,1,1,0,0,16
 2023-12-24,,0,0,0,0,0,0,0,0,0,0,0
 2023-12-24,Hospital Sultanah Bahiyah,9,1,4,3,3,3,2,0,0,0,25
@@ -183859,7 +183859,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2023-12-24,Hospital Tengku Ampuan Afzan,3,2,2,2,2,0,0,0,0,0,11
 2023-12-24,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2023-12-24,Hospital Seberang Jaya,2,3,1,1,1,0,0,0,0,0,8
-2023-12-24,Hospital Pulau Pinang,5,1,0,1,1,1,0,0,0,0,9
+2023-12-24,Hospital Pulau Pinang,5,1,0,1,2,1,1,0,0,0,11
 2023-12-24,,0,0,0,0,0,0,0,0,0,0,0
 2023-12-24,,0,0,0,0,0,0,0,0,0,0,0
 2023-12-24,,0,0,0,0,0,0,0,0,0,0,0
@@ -186617,7 +186617,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-03-31,Hospital Tawau,0,1,0,0,0,0,0,0,0,0,1
 2024-03-31,Hospital Umum Sarawak,3,3,1,2,1,3,3,1,0,0,17
 2024-03-31,Hospital Miri,3,1,1,1,0,1,0,0,0,0,7
-2024-03-31,Hospital Sibu,3,1,0,0,0,1,1,0,0,0,6
+2024-03-31,Hospital Sibu,3,1,0,0,1,1,1,0,0,0,7
 2024-03-31,Pusat Darah Negara,37,15,15,8,8,14,12,6,0,0,115
 2024-04-01,Hospital Sultanah Nora Ismail,0,0,0,0,0,1,0,0,0,0,1
 2024-04-01,Hospital Sultanah Aminah,3,4,1,2,1,1,3,0,0,0,15
@@ -186811,7 +186811,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-04-07,Hospital Queen Elizabeth II,11,3,1,2,2,3,0,0,0,0,22
 2024-04-07,Hospital Duchess Of Kent,0,0,0,0,0,1,0,1,0,0,2
 2024-04-07,Hospital Tawau,4,1,1,2,2,1,0,3,0,0,14
-2024-04-07,Hospital Umum Sarawak,1,2,2,1,0,2,1,0,0,0,9
+2024-04-07,Hospital Umum Sarawak,1,2,2,1,0,2,1,0,1,0,10
 2024-04-07,Hospital Miri,5,7,2,2,5,1,0,0,0,0,22
 2024-04-07,Hospital Sibu,2,1,0,3,4,1,0,0,0,0,11
 2024-04-07,Pusat Darah Negara,57,28,19,11,23,18,15,13,1,0,185
@@ -188171,7 +188171,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-05-26,Hospital Tengku Ampuan Afzan,3,1,2,0,1,1,0,0,0,0,8
 2024-05-26,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2024-05-26,Hospital Seberang Jaya,8,3,5,1,2,0,1,1,0,0,21
-2024-05-26,Hospital Pulau Pinang,1,3,2,3,2,0,2,0,0,0,13
+2024-05-26,Hospital Pulau Pinang,1,3,2,3,2,0,2,1,0,0,14
 2024-05-26,,0,0,0,0,0,0,0,0,0,0,0
 2024-05-26,,0,0,0,0,0,0,0,0,0,0,0
 2024-05-26,,0,0,0,0,0,0,0,0,0,0,0
@@ -188962,7 +188962,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-06-23,Hospital Raja Permaisuri Bainun,5,1,4,5,3,0,3,2,0,0,23
 2024-06-23,Hospital Taiping,3,0,0,1,3,2,1,1,0,0,11
 2024-06-23,Hospital Seri Manjung,2,0,1,0,0,1,0,0,0,0,4
-2024-06-23,Hospital Tengku Ampuan Rahimah,10,12,17,9,7,4,1,2,0,0,62
+2024-06-23,Hospital Tengku Ampuan Rahimah,10,12,17,9,8,4,1,2,0,0,63
 2024-06-23,Hospital Sultanah Nur Zahirah,1,0,1,1,0,0,0,0,0,0,3
 2024-06-23,Hospital Queen Elizabeth II,7,3,6,4,3,2,0,0,0,0,25
 2024-06-23,Hospital Duchess Of Kent,0,1,1,0,0,0,0,0,0,0,2
@@ -189158,7 +189158,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-06-30,Hospital Raja Permaisuri Bainun,1,4,2,3,3,0,1,1,0,0,15
 2024-06-30,Hospital Taiping,2,1,3,0,0,2,1,2,1,0,12
 2024-06-30,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2024-06-30,Hospital Tengku Ampuan Rahimah,16,12,7,6,3,3,4,4,0,0,55
+2024-06-30,Hospital Tengku Ampuan Rahimah,16,12,7,7,3,3,4,4,0,0,56
 2024-06-30,Hospital Sultanah Nur Zahirah,1,0,0,0,0,0,0,0,0,0,1
 2024-06-30,Hospital Queen Elizabeth II,7,3,0,2,1,0,0,0,0,0,13
 2024-06-30,Hospital Duchess Of Kent,1,4,0,4,4,2,0,0,0,0,15
@@ -190698,7 +190698,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-08-24,Hospital Raja Permaisuri Bainun,44,3,1,2,1,1,0,2,0,0,54
 2024-08-24,Hospital Taiping,1,0,1,0,0,1,0,0,0,0,3
 2024-08-24,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2024-08-24,Hospital Tengku Ampuan Rahimah,6,3,3,1,1,0,2,0,0,0,16
+2024-08-24,Hospital Tengku Ampuan Rahimah,6,3,3,1,1,1,2,0,0,0,17
 2024-08-24,Hospital Sultanah Nur Zahirah,2,2,3,0,1,1,0,0,0,0,9
 2024-08-24,Hospital Queen Elizabeth II,6,5,5,6,2,1,0,4,0,0,29
 2024-08-24,Hospital Duchess Of Kent,0,0,0,0,2,0,0,0,0,0,2
@@ -190894,7 +190894,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-08-31,Hospital Raja Permaisuri Bainun,5,4,0,2,3,2,1,0,0,0,17
 2024-08-31,Hospital Taiping,3,0,3,2,2,1,0,0,0,0,11
 2024-08-31,Hospital Seri Manjung,6,0,1,2,2,2,1,0,0,0,14
-2024-08-31,Hospital Tengku Ampuan Rahimah,4,2,3,2,5,5,2,0,0,0,23
+2024-08-31,Hospital Tengku Ampuan Rahimah,4,2,3,3,5,5,2,0,0,0,24
 2024-08-31,Hospital Sultanah Nur Zahirah,9,4,2,5,0,1,1,2,0,0,24
 2024-08-31,Hospital Queen Elizabeth II,1,0,0,1,0,4,1,2,0,0,9
 2024-08-31,Hospital Duchess Of Kent,3,0,3,2,1,2,0,1,0,0,12
@@ -191790,7 +191790,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-10-02,Hospital Raja Permaisuri Bainun,26,0,0,0,0,0,0,0,0,0,26
 2024-10-02,Hospital Taiping,1,1,1,0,1,0,1,0,0,0,5
 2024-10-02,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2024-10-02,Hospital Tengku Ampuan Rahimah,8,5,11,5,7,2,0,0,0,0,38
+2024-10-02,Hospital Tengku Ampuan Rahimah,8,5,11,5,7,3,0,0,0,0,39
 2024-10-02,Hospital Sultanah Nur Zahirah,2,3,1,1,1,0,0,0,0,0,8
 2024-10-02,Hospital Queen Elizabeth II,0,2,0,0,0,0,1,0,1,0,4
 2024-10-02,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
@@ -192100,7 +192100,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-10-13,Hospital Seri Manjung,1,1,2,0,2,0,0,0,0,0,6
 2024-10-13,Hospital Tengku Ampuan Rahimah,3,7,6,6,1,5,2,5,0,0,35
 2024-10-13,Hospital Sultanah Nur Zahirah,9,2,0,0,1,0,0,0,0,0,12
-2024-10-13,Hospital Queen Elizabeth II,4,1,1,1,2,1,0,1,0,0,11
+2024-10-13,Hospital Queen Elizabeth II,4,1,2,1,2,1,0,0,0,0,11
 2024-10-13,Hospital Duchess Of Kent,0,0,4,0,0,0,0,0,0,0,4
 2024-10-13,Hospital Tawau,0,1,0,0,1,0,0,0,0,0,2
 2024-10-13,Hospital Umum Sarawak,5,5,6,2,3,1,3,0,0,0,25
@@ -193078,7 +193078,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-11-17,Hospital Raja Permaisuri Bainun,2,1,0,3,2,1,2,2,0,0,13
 2024-11-17,Hospital Taiping,33,2,1,1,1,0,1,0,0,0,39
 2024-11-17,Hospital Seri Manjung,1,0,1,0,1,1,0,1,0,0,5
-2024-11-17,Hospital Tengku Ampuan Rahimah,3,5,4,1,8,6,4,1,0,0,32
+2024-11-17,Hospital Tengku Ampuan Rahimah,3,5,4,1,8,7,4,1,0,0,33
 2024-11-17,Hospital Sultanah Nur Zahirah,19,0,1,0,0,0,0,0,0,0,20
 2024-11-17,Hospital Queen Elizabeth II,0,0,0,0,0,0,0,0,0,0,0
 2024-11-17,Hospital Duchess Of Kent,1,1,3,2,4,4,2,0,0,0,17
@@ -193282,7 +193282,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2024-11-24,Hospital Umum Sarawak,0,4,1,2,0,1,0,0,0,0,8
 2024-11-24,Hospital Miri,1,3,3,1,1,1,1,0,0,0,11
 2024-11-24,Hospital Sibu,6,0,2,1,1,0,0,0,1,0,11
-2024-11-24,Pusat Darah Negara,19,22,19,18,12,14,8,1,0,0,113
+2024-11-24,Pusat Darah Negara,19,22,19,18,13,14,8,1,0,0,114
 2024-11-25,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2024-11-25,Hospital Sultanah Aminah,36,0,0,0,2,1,0,0,0,0,39
 2024-11-25,,0,1,0,1,2,2,0,0,0,0,6
@@ -195598,7 +195598,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-02-15,Hospital Raja Permaisuri Bainun,3,0,5,0,2,0,0,0,0,0,10
 2025-02-15,Hospital Taiping,2,1,2,1,0,0,1,0,0,0,7
 2025-02-15,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2025-02-15,Hospital Tengku Ampuan Rahimah,3,3,5,4,2,3,0,2,0,0,22
+2025-02-15,Hospital Tengku Ampuan Rahimah,3,3,5,4,2,3,1,2,0,0,23
 2025-02-15,Hospital Sultanah Nur Zahirah,28,11,0,0,1,1,1,0,0,0,42
 2025-02-15,Hospital Queen Elizabeth II,0,1,2,1,0,0,1,0,0,0,5
 2025-02-15,Hospital Duchess Of Kent,3,2,0,5,3,4,3,0,0,0,20
@@ -195830,7 +195830,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-02-23,Hospital Umum Sarawak,3,0,2,4,2,1,0,0,0,0,12
 2025-02-23,Hospital Miri,5,3,2,1,1,0,0,0,0,0,12
 2025-02-23,Hospital Sibu,5,1,2,0,2,1,0,1,0,0,12
-2025-02-23,Pusat Darah Negara,29,32,18,25,27,24,8,2,0,0,165
+2025-02-23,Pusat Darah Negara,29,33,18,25,27,24,8,2,0,0,166
 2025-02-24,Hospital Sultanah Nora Ismail,0,1,0,0,0,0,0,0,0,0,1
 2025-02-24,Hospital Sultanah Aminah,7,6,4,1,2,2,1,0,0,0,23
 2025-02-24,,4,1,1,1,2,2,2,0,0,0,13
@@ -197772,7 +197772,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-05-04,Hospital Melaka,5,1,2,2,1,0,1,0,0,0,12
 2025-05-04,Hospital Tuanku Jaafar,6,3,5,6,2,6,2,0,0,0,30
 2025-05-04,,0,0,0,0,0,0,0,0,0,0,0
-2025-05-04,Hospital Tengku Ampuan Afzan,4,0,1,3,4,0,1,0,0,0,13
+2025-05-04,Hospital Tengku Ampuan Afzan,4,0,1,3,4,0,1,1,0,0,14
 2025-05-04,Hospital Sultan Haji Ahmad Shah,3,2,3,1,0,2,1,0,0,0,12
 2025-05-04,Hospital Seberang Jaya,2,5,1,0,2,1,0,0,0,0,11
 2025-05-04,Hospital Pulau Pinang,0,3,2,2,2,1,0,1,0,0,11
@@ -199147,7 +199147,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-06-22,Hospital Tengku Ampuan Afzan,3,2,2,1,4,0,2,1,0,0,15
 2025-06-22,Hospital Sultan Haji Ahmad Shah,3,0,1,2,1,1,0,0,0,0,8
 2025-06-22,Hospital Seberang Jaya,3,7,5,2,2,3,2,0,0,0,24
-2025-06-22,Hospital Pulau Pinang,2,2,3,6,3,0,1,2,0,0,19
+2025-06-22,Hospital Pulau Pinang,2,2,3,6,3,0,2,2,0,0,20
 2025-06-22,,0,0,0,0,0,0,0,0,0,0,0
 2025-06-22,,0,0,0,0,0,0,0,0,0,0,0
 2025-06-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -199350,7 +199350,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-06-29,Hospital Raja Permaisuri Bainun,3,2,2,1,3,2,0,0,0,0,13
 2025-06-29,Hospital Taiping,1,0,0,2,4,3,1,1,1,0,13
 2025-06-29,Hospital Seri Manjung,0,1,0,0,0,0,0,1,0,0,2
-2025-06-29,Hospital Tengku Ampuan Rahimah,14,7,5,2,4,3,1,2,0,0,38
+2025-06-29,Hospital Tengku Ampuan Rahimah,14,7,6,2,4,3,1,2,0,0,39
 2025-06-29,Hospital Sultanah Nur Zahirah,1,0,2,0,1,0,1,1,0,0,6
 2025-06-29,Hospital Queen Elizabeth II,9,0,0,4,3,0,0,0,0,0,16
 2025-06-29,Hospital Duchess Of Kent,2,0,2,1,3,2,1,1,0,0,12
@@ -204258,7 +204258,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2025-12-21,Hospital Umum Sarawak,2,1,1,1,1,0,0,0,0,0,6
 2025-12-21,Hospital Miri,2,1,2,1,2,3,0,0,0,0,11
 2025-12-21,Hospital Sibu,0,0,1,1,3,0,0,0,0,0,5
-2025-12-21,Pusat Darah Negara,23,21,11,10,12,11,11,5,0,0,104
+2025-12-21,Pusat Darah Negara,23,21,12,10,12,11,11,5,0,0,105
 2025-12-22,Hospital Sultanah Nora Ismail,1,0,0,0,0,0,1,0,0,0,2
 2025-12-22,Hospital Sultanah Aminah,0,0,0,0,0,0,0,0,0,0,0
 2025-12-22,,2,2,2,0,0,0,0,0,0,0,6
@@ -205801,7 +205801,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-02-14,Pusat Darah Negara,22,12,17,12,7,6,2,7,0,0,85
 2026-02-15,Hospital Sultanah Nora Ismail,3,2,2,1,0,2,1,1,1,0,13
 2026-02-15,Hospital Sultanah Aminah,7,5,3,6,2,2,1,1,0,0,27
-2026-02-15,,6,1,5,5,3,1,0,0,0,0,21
+2026-02-15,,6,1,5,5,2,2,0,0,0,0,21
 2026-02-15,Hospital Sultanah Bahiyah,22,0,0,1,0,0,1,1,0,0,25
 2026-02-15,,0,0,0,0,0,0,0,0,0,0,0
 2026-02-15,Hospital Raja Perempuan Zainab II,68,0,0,0,2,0,0,0,0,0,70
@@ -206987,7 +206987,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-03-29,Hospital Tengku Ampuan Afzan,5,2,5,3,1,0,0,0,0,0,16
 2026-03-29,Hospital Sultan Haji Ahmad Shah,0,0,0,0,0,0,0,0,0,0,0
 2026-03-29,Hospital Seberang Jaya,1,1,3,2,0,1,1,0,0,0,9
-2026-03-29,Hospital Pulau Pinang,1,0,0,0,2,0,0,1,0,0,4
+2026-03-29,Hospital Pulau Pinang,1,0,0,1,2,0,0,1,0,0,5
 2026-03-29,,0,0,0,0,0,0,0,0,0,0,0
 2026-03-29,,0,0,0,0,0,0,0,0,0,0,0
 2026-03-29,,0,0,0,0,0,0,0,0,0,0,0
@@ -209534,7 +209534,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-06-28,,0,0,0,0,0,0,0,0,0,0,0
 2026-06-28,Hospital Tengku Ampuan Afzan,0,1,1,1,0,1,0,0,0,0,4
 2026-06-28,Hospital Sultan Haji Ahmad Shah,2,0,0,0,0,0,0,0,0,0,2
-2026-06-28,Hospital Seberang Jaya,3,1,0,1,1,0,1,0,0,0,7
+2026-06-28,Hospital Seberang Jaya,3,1,0,1,2,0,1,0,0,0,8
 2026-06-28,Hospital Pulau Pinang,1,0,2,0,0,1,1,1,0,0,6
 2026-06-28,,0,0,0,0,0,0,0,0,0,0,0
 2026-06-28,,0,0,0,0,0,0,0,0,0,0,0
@@ -209542,7 +209542,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-06-28,Hospital Raja Permaisuri Bainun,0,2,0,0,3,0,0,1,0,0,6
 2026-06-28,Hospital Taiping,1,1,0,1,2,0,0,0,0,0,5
 2026-06-28,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
-2026-06-28,Hospital Tengku Ampuan Rahimah,2,1,0,0,0,0,1,0,0,0,4
+2026-06-28,Hospital Tengku Ampuan Rahimah,2,1,0,0,0,1,1,0,0,0,5
 2026-06-28,Hospital Sultanah Nur Zahirah,0,0,0,0,0,0,0,0,0,0,0
 2026-06-28,Hospital Queen Elizabeth II,0,1,3,1,0,0,2,0,0,0,7
 2026-06-28,Hospital Duchess Of Kent,5,1,1,3,1,2,0,0,0,0,13
@@ -212071,3 +212071,31 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-09-26,Hospital Miri,0,2,1,1,0,1,0,0,0,0,5
 2026-09-26,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2026-09-26,Pusat Darah Negara,17,16,10,17,11,11,7,0,1,0,90
+2026-09-27,Hospital Sultanah Nora Ismail,0,0,1,1,0,1,1,0,0,0,4
+2026-09-27,Hospital Sultanah Aminah,2,3,2,2,1,2,1,1,0,0,14
+2026-09-27,,2,1,3,4,3,2,3,3,1,0,22
+2026-09-27,Hospital Sultanah Bahiyah,3,1,1,3,0,1,3,1,0,0,13
+2026-09-27,,0,0,0,0,0,0,0,0,0,0,0
+2026-09-27,Hospital Raja Perempuan Zainab II,0,1,0,0,0,0,0,0,0,0,1
+2026-09-27,Hospital Melaka,2,1,2,5,5,2,0,1,0,0,18
+2026-09-27,Hospital Tuanku Jaafar,10,1,4,2,1,2,0,0,0,0,20
+2026-09-27,,0,0,0,0,0,0,0,0,0,0,0
+2026-09-27,Hospital Tengku Ampuan Afzan,4,1,0,0,0,1,0,0,0,0,6
+2026-09-27,Hospital Sultan Haji Ahmad Shah,0,0,1,0,0,1,0,0,0,0,2
+2026-09-27,Hospital Seberang Jaya,1,1,5,0,2,3,0,1,0,0,13
+2026-09-27,Hospital Pulau Pinang,2,1,4,1,4,2,0,2,0,0,16
+2026-09-27,,0,0,0,0,0,0,0,0,0,0,0
+2026-09-27,,0,0,0,0,0,0,0,0,0,0,0
+2026-09-27,,0,0,0,0,0,0,0,0,0,0,0
+2026-09-27,Hospital Raja Permaisuri Bainun,3,1,2,3,4,6,2,0,0,0,21
+2026-09-27,Hospital Taiping,0,1,0,0,1,1,1,0,0,0,4
+2026-09-27,Hospital Seri Manjung,1,0,1,1,2,0,0,0,1,0,6
+2026-09-27,Hospital Tengku Ampuan Rahimah,3,1,4,5,3,3,0,0,0,0,19
+2026-09-27,Hospital Sultanah Nur Zahirah,37,0,0,0,0,0,1,0,0,0,38
+2026-09-27,Hospital Queen Elizabeth II,5,2,1,3,3,4,3,6,1,0,28
+2026-09-27,Hospital Duchess Of Kent,1,2,2,1,0,3,1,0,0,0,10
+2026-09-27,Hospital Tawau,0,2,0,1,1,0,0,0,0,0,4
+2026-09-27,Hospital Umum Sarawak,3,4,1,0,1,1,1,1,0,0,12
+2026-09-27,Hospital Miri,1,0,2,1,0,0,0,1,0,0,5
+2026-09-27,Hospital Sibu,0,2,0,1,0,0,0,0,0,0,3
+2026-09-27,Pusat Darah Negara,19,22,21,14,13,7,5,4,0,0,105
