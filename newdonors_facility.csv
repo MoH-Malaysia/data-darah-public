@@ -73099,7 +73099,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-02-23,Hospital Taiping,0,0,0,0,0,0,0,0,0,0,0
 2013-02-23,Hospital Seri Manjung,92,0,0,0,0,0,0,0,0,0,92
 2013-02-23,Hospital Tengku Ampuan Rahimah,3,2,4,2,3,2,0,0,0,0,16
-2013-02-23,Hospital Sultanah Nur Zahirah,23,16,1,0,0,0,0,0,0,0,40
+2013-02-23,Hospital Sultanah Nur Zahirah,23,17,1,0,0,0,0,0,0,0,41
 2013-02-23,Hospital Queen Elizabeth II,6,2,5,6,0,0,1,0,0,0,20
 2013-02-23,Hospital Duchess Of Kent,0,0,0,0,0,0,0,0,0,0,0
 2013-02-23,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
@@ -77224,7 +77224,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2013-07-20,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2013-07-20,Pusat Darah Negara,37,15,16,12,8,14,4,6,0,0,112
 2013-07-21,Hospital Sultanah Nora Ismail,10,5,7,5,1,2,2,0,0,0,32
-2013-07-21,Hospital Sultanah Aminah,26,11,14,7,21,10,4,1,0,0,94
+2013-07-21,Hospital Sultanah Aminah,26,10,15,7,21,10,4,1,0,0,94
 2013-07-21,,0,0,0,0,0,0,0,0,0,0,0
 2013-07-21,Hospital Sultanah Bahiyah,15,14,7,15,8,14,5,2,1,0,81
 2013-07-21,,0,0,0,0,0,0,0,0,0,0,0
@@ -124178,7 +124178,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2018-02-21,Hospital Umum Sarawak,19,1,2,0,0,2,0,0,0,0,24
 2018-02-21,Hospital Miri,0,0,1,0,0,0,0,0,0,0,1
 2018-02-21,Hospital Sibu,0,1,0,0,0,0,0,0,0,0,1
-2018-02-21,Pusat Darah Negara,161,20,14,9,10,2,2,1,0,0,219
+2018-02-21,Pusat Darah Negara,161,20,15,9,10,2,2,1,0,0,220
 2018-02-22,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2018-02-22,Hospital Sultanah Aminah,14,0,0,1,1,1,0,0,0,0,17
 2018-02-22,,0,0,0,0,0,0,0,0,0,0,0
@@ -141428,7 +141428,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2019-10-30,Hospital Sibu,0,1,0,0,0,0,0,0,0,0,1
 2019-10-30,Pusat Darah Negara,12,15,10,12,11,9,3,3,0,0,75
 2019-10-31,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
-2019-10-31,Hospital Sultanah Aminah,3,1,4,3,1,0,0,1,0,0,13
+2019-10-31,Hospital Sultanah Aminah,3,1,5,3,1,0,0,1,0,0,14
 2019-10-31,,0,0,0,0,0,0,0,0,0,0,0
 2019-10-31,Hospital Sultanah Bahiyah,1,1,2,1,0,0,0,0,0,0,5
 2019-10-31,,0,0,0,0,0,0,0,0,0,0,0
@@ -147166,7 +147166,7 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2020-05-22,Hospital Umum Sarawak,1,0,2,0,3,0,0,0,0,0,6
 2020-05-22,Hospital Miri,0,0,0,0,1,0,1,0,0,0,2
 2020-05-22,Hospital Sibu,1,0,0,0,0,0,0,0,0,0,1
-2020-05-22,Pusat Darah Negara,16,11,12,5,12,4,1,2,0,0,63
+2020-05-22,Pusat Darah Negara,16,11,13,5,12,4,1,2,0,0,64
 2020-05-23,Hospital Sultanah Nora Ismail,0,0,0,0,0,0,0,0,0,0,0
 2020-05-23,Hospital Sultanah Aminah,1,4,3,1,3,1,3,0,0,0,16
 2020-05-23,,0,0,0,0,0,0,0,0,0,0,0
@@ -212519,3 +212519,31 @@ date,hospital,17-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,other,total
 2026-10-12,Hospital Miri,0,0,0,0,0,0,0,0,0,0,0
 2026-10-12,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
 2026-10-12,Pusat Darah Negara,61,44,21,10,10,7,2,1,1,0,157
+2026-10-13,Hospital Sultanah Nora Ismail,0,0,0,0,1,0,0,0,0,0,1
+2026-10-13,Hospital Sultanah Aminah,3,9,8,1,3,3,0,3,0,0,30
+2026-10-13,,2,4,6,3,3,6,0,0,0,0,24
+2026-10-13,Hospital Sultanah Bahiyah,7,1,1,1,0,1,0,0,0,0,11
+2026-10-13,,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Raja Perempuan Zainab II,1,0,2,1,2,0,0,1,0,0,7
+2026-10-13,Hospital Melaka,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Tuanku Jaafar,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Tengku Ampuan Afzan,3,4,9,6,4,2,0,1,0,0,29
+2026-10-13,Hospital Sultan Haji Ahmad Shah,6,4,1,0,0,0,0,0,0,0,11
+2026-10-13,Hospital Seberang Jaya,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Pulau Pinang,11,19,6,4,1,2,1,0,0,0,44
+2026-10-13,,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Raja Permaisuri Bainun,2,5,1,2,3,1,2,1,0,0,17
+2026-10-13,Hospital Taiping,1,0,0,0,0,1,1,0,0,0,3
+2026-10-13,Hospital Seri Manjung,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Tengku Ampuan Rahimah,5,8,2,0,0,0,0,0,0,0,15
+2026-10-13,Hospital Sultanah Nur Zahirah,2,0,0,0,0,0,0,0,0,0,2
+2026-10-13,Hospital Queen Elizabeth II,1,3,2,2,3,1,0,0,0,0,12
+2026-10-13,Hospital Duchess Of Kent,5,0,1,0,0,1,0,0,0,0,7
+2026-10-13,Hospital Tawau,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Hospital Umum Sarawak,0,0,10,3,2,0,2,0,0,0,17
+2026-10-13,Hospital Miri,0,0,0,0,0,1,0,0,0,0,1
+2026-10-13,Hospital Sibu,0,0,0,0,0,0,0,0,0,0,0
+2026-10-13,Pusat Darah Negara,28,17,15,9,11,4,2,0,0,0,86
